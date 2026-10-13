@@ -1,4 +1,0 @@
-Task,n_total,n_pos,pct_pos_retained,pos_median_len,neg_median_len,n_clusters
-apoptosis,290,145,71.4,17.0,17.0,206
-necrosis,238,119,58.6,18.0,17.0,179
-pyroptosis,230,115,62.5,18.0,18.0,172

@@ -1,4 +1,0 @@
-Task,pos_median,neg_median,pos_mean,neg_mean,pos_max,neg_max,p,rank_biserial
-Apoptosis,17.0,17.0,18.4,18.9,46,45,0.6916351824358247,-0.025
-Necrosis,22.0,15.0,23.5,15.9,62,43,3.0732996110425804e-15,0.488
-Pyroptosis,16.0,19.0,17.6,19.1,45,46,0.14275975058727175,-0.096

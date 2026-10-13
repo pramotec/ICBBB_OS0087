@@ -1,4 +1,0 @@
-Task,N_negative,Neg_that_are_positive_elsewhere,Pct,neg_pos_in_necrosis,neg_pos_in_pyroptosis,neg_pos_in_apoptosis,block
-Apoptosis,148,148,100.0,81.0,88.0,,negative_set_composition
-Necrosis,153,153,100.0,,76.0,86.0,negative_set_composition
-Pyroptosis,133,133,100.0,64.0,,82.0,negative_set_composition

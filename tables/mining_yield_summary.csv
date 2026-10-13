@@ -1,4 +1,0 @@
-mode,papers,strings,rej_nucleotide,rej_dictionary,rej_composition,rej_machinery,rej_lowcomplex,sequences,new,acp_corroborated,tier12,seq_per_1000_papers,kept_rows
-apoptosis,6312,27340,11771,4866,1991,0,8,5304,5181,126.0,12,840.3,8704
-necrosis,3993,13865,4771,311,1005,0,2,4970,4852,131.0,2,1244.7,7776
-pyroptosis,2992,4739,4208,200,75,15,0,241,236,,0,80.5,241

@@ -1,7 +1,0 @@
-tier,variant,n_pos_v1,n_pos_v3,n_clusters_v1,n_clusters_v3,retention_pct_v1,retention_pct_v3,prevalence_v1,prevalence_v3,length_p_v3,clusters_gained
-tier1,unmatched,203,261,247,289,,,0.592,0.651,0.15,42
-tier1,matched,140,140,202,203,69.0,53.6,0.5,0.5,0.979,1
-tier2,unmatched,203,261,260,304,,,0.592,0.651,0.0136,44
-tier2,matched,203,261,296,370,100.0,100.0,0.5,0.5,0.991,74
-tier3,unmatched,203,261,273,321,,,0.592,0.651,1.05e-15,48
-tier3,matched,203,261,311,390,100.0,100.0,0.5,0.5,0.814,79
