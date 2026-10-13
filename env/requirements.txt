@@ -1,0 +1,12 @@
+# versions as used for the published results (python 3.13.16, Windows 11)
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.2
+biopython==1.88
+matplotlib==3.11.2
+joblib==1.6.0
+openpyxl==3.1.5
+requests==2.34.2
+python-docx==1.2.0
