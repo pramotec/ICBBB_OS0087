@@ -1,0 +1,8 @@
+The curated datasets, cluster assignments, curation tables and derived result
+tables in data/ and results/ are released under the Creative Commons
+Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Upstream sources retain their own terms: death-mode sequences from
+github.com/TaoHu888/ACP_data_set, and the UniDL4BioPep anticancer-peptide
+benchmarks. Cite those sources as well as this repository.

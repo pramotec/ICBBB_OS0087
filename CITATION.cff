@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or these datasets, please cite the paper and this repository."
+title: "Machine-learning prediction of the mode of cancer-cell death induced by anticancer peptides"
+authors:
+  - family-names: Seehamat
+    given-names: Khunanon
+  - family-names: Piruksa
+    given-names: Pitawat
+  - family-names: Chumnanpuen
+    given-names: Pramote
+version: "2.0.0"
+date-released: "2026-10-10"
+license: MIT
+repository-code: "https://github.com/<ORG>/<REPO>"
