@@ -1,0 +1,3 @@
+mode,n_positives,in_length_range,retained,retained_pct,rejections,machinery_flagged
+apoptosis,203,173,173,100.0,{},"{'P55957': 2, 'P04637': 3, 'Q16611': 1, 'O43521': 3, 'Q07812': 2}"
+necrosis,203,200,200,100.0,{},none

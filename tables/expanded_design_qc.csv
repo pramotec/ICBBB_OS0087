@@ -1,0 +1,9 @@
+task,version,variant,n,n_pos,n_neg,n_clusters,length_p,retention_pct
+apoptosis,v1,unmatched,343,203,140,247,0.244,
+apoptosis,v1,matched,280,140,140,202,0.932,69.0
+apoptosis,v2,unmatched,346,206,140,250,0.26,
+apoptosis,v2,matched,280,140,140,203,0.965,68.0
+necrosis,v1,unmatched,348,203,145,246,1.61e-13,
+necrosis,v1,matched,260,130,130,192,0.0593,64.0
+necrosis,v2,unmatched,351,206,145,249,8.64e-14,
+necrosis,v2,matched,260,130,130,193,0.0593,63.1

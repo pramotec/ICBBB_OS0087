@@ -1,0 +1,5 @@
+Group,n,len_median,gravy_mean,netcharge_median,frac_KR_mean,frac_Cys_mean
+our death-mode ACPs (497),497,18.0,-0.09,3.0999999999999996,0.236,0.029
+UniDL4BioPep ACP positives (970),970,19.0,0.19,3.0999999999999996,0.203,0.045
+"UniDL4BioPep non-ACP, alt (970)",970,28.0,-0.22,0.0,0.116,0.014
+"UniDL4BioPep non-ACP, main (861)",861,26.0,0.01,3.0,0.178,0.065

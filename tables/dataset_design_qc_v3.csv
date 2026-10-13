@@ -1,0 +1,13 @@
+task,tier,variant,n,n_pos,n_neg,prevalence,reservoir,retention_pct,med_len_pos,med_len_neg,length_p,n_clusters
+apoptosis,tier1,unmatched,401,261,140,0.651,140,,17,17,0.15,289
+apoptosis,tier1,matched,280,140,140,0.5,140,53.6,17,17,0.979,203
+apoptosis,tier2,unmatched,401,261,140,0.651,889,,17,19,0.0136,304
+apoptosis,tier2,matched,522,261,261,0.5,889,100.0,17,17,0.991,370
+apoptosis,tier3,unmatched,401,261,140,0.651,848,,17,27,1.05e-15,321
+apoptosis,tier3,matched,522,261,261,0.5,848,100.0,17,17,0.814,390
+necrosis,tier1,unmatched,348,203,145,0.583,145,,22,16,1.61e-13,246
+necrosis,tier1,matched,260,130,130,0.5,145,64.0,18,16,0.0593,192
+necrosis,tier2,unmatched,348,203,145,0.583,889,,22,20,0.00991,251
+necrosis,tier2,matched,402,201,201,0.5,889,99.0,22,22,0.996,284
+necrosis,tier3,unmatched,348,203,145,0.583,848,,22,25,0.0225,272
+necrosis,tier3,matched,402,201,201,0.5,848,99.0,22,22,1.0,299

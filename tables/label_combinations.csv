@@ -1,0 +1,8 @@
+Label_combination,N_peptides
+Apoptosis,154
+Necrosis,139
+Pyroptosis,130
+Necrosis+Pyroptosis,25
+Apoptosis+Necrosis,20
+Apoptosis+Necrosis+Pyroptosis,19
+Apoptosis+Pyroptosis,10
