@@ -1,0 +1,3 @@
+task,n_neg,neg_annotated_pyroptosis_only,pct_of_negatives,of_those_SUPPORTED,of_those_ONLY_OTHER_MECHANISM,of_those_NO_LITERATURE_HIT,of_those_literature_mentions_apoptosis,of_those_literature_mentions_necrosis
+Apoptosis,148,67,45.3,9,0,41,11.0,
+Necrosis,153,67,43.8,9,0,41,,17.0

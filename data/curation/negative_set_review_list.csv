@@ -1,0 +1,29 @@
+task,Sequence,current_label,annotated_as,pyroptosis_verdict,mechanisms_in_retrieved_literature,top_doi,top_pmid,top_title
+Apoptosis,DMLD,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1093/emboj/17.11.3005,9606183.0,HIF-1 alpha is required for solid tumor formation and embryonic vascularization.
+Apoptosis,DMPD,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1021/jf000404a,11052704.0,Antioxidant activity of pomegranate juice and its relationship with phenolic composition and processing.
+Apoptosis,FLTD,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/s41422-019-0164-5,30948788.0,The molecular machinery of regulated cell death.
+Apoptosis,KLAKLAKKLAKLAKKLAK,0,pyroptosis only,ONLY_OTHER_MECHANISM:apoptosis,apoptosis,10.1038/ncomms5478,25047118.0,Development of pro-apoptotic peptides as potential therapy for peritoneal endometriosis.
+Apoptosis,KRIVQRIKDFLR,0,pyroptosis only,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1093/nar/gkn823,18957441.0,APD2: the updated antimicrobial peptide database and its application in peptide design.
+Apoptosis,LLSD,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1128/mr.57.1.138-163.1993,8385262.0,Molecular genetics of aminoglycoside resistance genes and familial relationships of the aminoglycoside-modifying enzymes.
+Apoptosis,RPKPQQFFGLM,0,pyroptosis only,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1007/s00018-016-2293-z,27314883.0,Neuropeptide substance P and the immune response.
+Apoptosis,RQIKIWFQNRRMKWKK,0,pyroptosis only,ONLY_OTHER_MECHANISM:apoptosis,apoptosis,10.1073/pnas.97.24.13003,11087855.0,"The design, synthesis, and evaluation of molecules that enable or enhance cellular uptake: peptoid molecular transporters."
+Apoptosis,RRRRLVAGVLVLLRRRR,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/s41598-025-96465-x,40229415.0,A novel peptide RR-171 derived from human umbilical cord serum induces apoptosis and pyroptosis in pancreatic cancer cells.
+Apoptosis,RRWCFRVCYRGFCYRKCR,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1128/aac.01664-09,20660668.0,Short cationic antimicrobial peptides interact with ATP.
+Apoptosis,WEWTWY,0,pyroptosis only,SUPPORTED,apoptosis;pyroptosis,10.1021/acs.jmedchem.5c01098,40720172.0,Self-Assembling Peptides Alter Cell Death Pathway for Pyroptosis-Enhanced Immune Activation.
+Necrosis,CRAY,0,pyroptosis only,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1002/jcc.20289,16222654.0,Scalable molecular dynamics with NAMD.
+Necrosis,DMLD,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1093/emboj/17.11.3005,9606183.0,HIF-1 alpha is required for solid tumor formation and embryonic vascularization.
+Necrosis,DMPD,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1021/jf000404a,11052704.0,Antioxidant activity of pomegranate juice and its relationship with phenolic composition and processing.
+Necrosis,FAVWGCADYRGY,0,pyroptosis only,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3390/toxins14100722,36287990.0,Peptides Isolated from Amphibian Skin Secretions with Emphasis on Antimicrobial Peptides.
+Necrosis,FKCRRWQWRMK,0,pyroptosis only,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1002/psc.365,11831560.0,The effects of charge and lipophilicity on the antibacterial activity of undecapeptides derived from bovine lactoferricin.
+Necrosis,FLTD,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/s41422-019-0164-5,30948788.0,The molecular machinery of regulated cell death.
+Necrosis,GFLSILKKVLPKVMAHMK,0,pyroptosis only,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1128/aac.01448-09,20086159.0,Identification of novel human immunodeficiency virus type 1-inhibitory peptides based on the antimicrobial peptide database.
+Necrosis,GRKKRRQRRRPQ,0,pyroptosis only,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1021/acs.chemrev.9b00008,31083977.0,Understanding Cell Penetration of Cyclic Peptides.
+Necrosis,KFFKFFKFFK,0,pyroptosis only,SUPPORTED,necrosis;pyroptosis,10.1038/86753,11283595.0,Bactericidal antisense effects of peptide-PNA conjugates.
+Necrosis,KRIVQRIKDFLR,0,pyroptosis only,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1093/nar/gkn823,18957441.0,APD2: the updated antimicrobial peptide database and its application in peptide design.
+Necrosis,LLSD,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1128/mr.57.1.138-163.1993,8385262.0,Molecular genetics of aminoglycoside resistance genes and familial relationships of the aminoglycoside-modifying enzymes.
+Necrosis,RPKPQQFFGLM,0,pyroptosis only,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1007/s00018-016-2293-z,27314883.0,Neuropeptide substance P and the immune response.
+Necrosis,RRRRLVAGVLVLLRRRR,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/s41598-025-96465-x,40229415.0,A novel peptide RR-171 derived from human umbilical cord serum induces apoptosis and pyroptosis in pancreatic cancer cells.
+Necrosis,RRRRRRRRR,0,pyroptosis only,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1073/pnas.97.24.13003,11087855.0,"The design, synthesis, and evaluation of molecules that enable or enhance cellular uptake: peptoid molecular transporters."
+Necrosis,RRWCFRVCYRGFCYRKCR,0,pyroptosis only,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1128/aac.01664-09,20660668.0,Short cationic antimicrobial peptides interact with ATP.
+Necrosis,RRWWRF,0,pyroptosis only,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.
+Necrosis,VQWRIRVAVIRK,0,pyroptosis only,SUPPORTED,necrosis;pyroptosis,10.1038/s41392-022-01007-w,35597779.0,mRNA-based therapeutics: powerful and versatile tools to combat diseases.

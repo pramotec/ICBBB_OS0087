@@ -1,0 +1,591 @@
+Sequence,task,hitCount,verdict,mechanisms_found,top_doi,top_pmid,top_title,simple,ref_support,risk,n_refs,cit_notfound
+ACDCRGDCFC,apoptosis,42.0,SUPPORTED,apoptosis;necrosis,10.1038/cdd.2015.174,26943322.0,Onto better TRAILs for cancer treatment.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+ACGIGKFLHSAKKFGKAFVGEIMNS,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+ACYCRIPACIAGERRYGTCIYQGRLWAFCC,apoptosis,64.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+ACYCRIPACIAGERRYGTCIYQGRLWAFCC,necrosis,64.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,5,False
+ACYCRIPACIAGERRYGTCIYQGRLWAFCC,pyroptosis,64.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+ADSYPQP,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+AFSYPFP,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+ALLKELLEKLIEGLKKLLKK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,TRUNCATED_AUTHOR_LIST,1,False
+ALWKTLLKKVLKAAAKAALNAVLVGANA,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1128/aac.02142-13,24492362.0,"In vitro activities of dermaseptins K4S4 and K4K20S4 against Escherichia coli, Staphylococcus aureus, and Pseudomonas aeruginosa planktonic growth and biofilm formation.",HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+ALWKTMLKKLGTALHAGKAALGAAADTISQ,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,apoptosis,18.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1021/bi00100a014,1909573.0,"Isolation, amino acid sequence, and synthesis of dermaseptin, a novel antimicrobial peptide of amphibian skin.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,3,False
+ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,necrosis,18.0,SUPPORTED,necrosis,10.1021/bi00100a014,1909573.0,"Isolation, amino acid sequence, and synthesis of dermaseptin, a novel antimicrobial peptide of amphibian skin.",SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,pyroptosis,18.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1021/bi00100a014,1909573.0,"Isolation, amino acid sequence, and synthesis of dermaseptin, a novel antimicrobial peptide of amphibian skin.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;TRUNCATED_AUTHOR_LIST,2,False
+ALWKTMLKKLGTVALHAGKAALGAVADTISQ,necrosis,3.0,ONLY_OTHER_MECHANISM:apoptosis,apoptosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+ALWMTLLKKVLKAAAAMAKNAVAVAKQEIKQ,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+ALWMTLLKKVLKAAAKAALNAVLVGANA,necrosis,22.0,SUPPORTED,necrosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+ALWMTLLKKVLKAAAKAALNAVLVGANA,pyroptosis,22.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,1,False
+ALYKKLLKKLLKSAKKLG,necrosis,6.0,SUPPORTED,necrosis,10.1128/jb.182.14.4077-4086.2000,10869088.0,A PhoP-regulated outer membrane protease of Salmonella enterica serovar typhimurium promotes resistance to alpha-helical antimicrobial peptides.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+AVPI,apoptosis,338.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1016/j.chembiol.2014.09.001,25237857.0,Small-molecule inhibitors of protein-protein interactions: progressing toward the reality.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+AVPIAQK,apoptosis,47.0,SUPPORTED,apoptosis;necrosis,10.1038/sj.emboj.7600544,15650747.0,XIAP inhibits caspase-3 and -7 using two binding sites: evolutionarily conserved mechanism of IAPs.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+AVPIAQKRQIKIWFQNRRMKWKK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+AWKLFDDGV,apoptosis,5.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3390/molecules26247453,34946535.0,Natural Peptides Inducing Cancer Cell Death: Mechanisms and Properties of Specific Candidates for Cancer Therapeutics.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,2,False
+CCKKPWLRCWRTCLPSRWQRERFGRKC,apoptosis,1.0,SUPPORTED,apoptosis,10.3390/md23120481,41440915.0,Induction of Apoptotic Cell Death in Non-Small-Cell Lung Cancer Cells by MP28 Peptide Derived from &lt;i&gt;Bryopsis plumosa&lt;/i&gt;.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;RECENT_FEW_AUTHORS,1,False
+CGNKRTR,apoptosis,88.0,SUPPORTED,apoptosis;necrosis,10.7150/thno.52570,33537081.0,Engineering exosomes for targeted drug delivery.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+CRAY,pyroptosis,4308.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1002/jcc.20289,16222654.0,Scalable molecular dynamics with NAMD.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,3,False
+CRGDKGPDC,apoptosis,369.0,SUPPORTED,apoptosis;necrosis,10.1016/j.addr.2013.11.009,24270007.0,Cancer nanotechnology: the impact of passive and active targeting in the era of modern cancer biology.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+CRRLCYKQRCVTYCRGR,necrosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,,,Poster Presentation Abstracts P121–P297,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+CRRLCYKQRCVTYCRGR,pyroptosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,,,Poster Presentation Abstracts P121–P297,HITS_BUT_NO_MECHANISM_EVIDENCE,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+CSCRTSSCRFGERAIGGCRG,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+CYCRIPACIAGERRYGTCIYQGRLWAFCC,apoptosis,28.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+CYCRIPACIAGERRYGTCIYQGRLWAFCC,necrosis,28.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+CYCRIPACIAGERRYGTCIYQGRLWAFCC,pyroptosis,28.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+DCYCRIPACIAGERRYGTCIYQGRLWAFCC,apoptosis,21.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+DCYCRIPACIAGERRYGTCIYQGRLWAFCC,necrosis,21.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+DCYCRIPACIAGERRYGTCIYQGRLWAFCC,pyroptosis,21.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,1,False
+DLLSKALKKAL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+DMLD,pyroptosis,103.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1093/emboj/17.11.3005,9606183.0,HIF-1 alpha is required for solid tumor formation and embryonic vascularization.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+DMPD,pyroptosis,690.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1021/jf000404a,11052704.0,Antioxidant activity of pomegranate juice and its relationship with phenolic composition and processing.,SUPPORTED,MENTIONS_OTHER_MECHANISM_ONLY,NONE,2,False
+DNRWWNGGGVPNTACCAICVGSLALAGTVPGAICGVGAICAC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+DSHAKRHHGYKRKFHEKHHSHRGY,necrosis,90.0,SUPPORTED,necrosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+DSHAKRHHGYKRKFHEKHHSHRGY,pyroptosis,90.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+DVPKSDQFVGLM,necrosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1074/jbc.m115.678177,26742841.0,Cell Adhesion on Amyloid Fibrils Lacking Integrin Recognition Motif.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+EDIIRNIARHLAQVGDSMDR,apoptosis,27.0,SUPPORTED,apoptosis;necrosis,10.1016/j.molcel.2013.08.048,24074954.0,"BID preferentially activates BAK while BIM preferentially activates BAX, affecting chemotherapy response.",SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+EDIIRNIARHLAQVGDSMDR,pyroptosis,27.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.molcel.2013.08.048,24074954.0,"BID preferentially activates BAK while BIM preferentially activates BAX, affecting chemotherapy response.",ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+EDIIRNIARHLAQVGDSMDRSIPP,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+EDRCRRGFCVCVGRCGR,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+EEQWAREIGAQLRRMADDLNAQY,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+EGRLGTQWAVGHLM,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+EQRLGNQWAVGHLM,necrosis,10.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3389/fphar.2020.01132,32848750.0,"From Animal Poisons and Venoms to Medicines: Achievements, Challenges and Perspectives in Drug Discovery.",HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+EQWAREIGAQLRRMADDLNA,apoptosis,20.0,SUPPORTED,apoptosis;necrosis,10.1182/blood-2007-06-098012,18056841.0,BCL-2 dependence and ABT-737 sensitivity in acute lymphoblastic leukemia.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+EQWAREIGAQLRRMADDLNAQYER,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+ETFSDLWKLLKKWKMRRNQFWVKVQRG,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+ETFSDLWKLLKKWKMRRNQFWVKVQRG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,3,False
+ETFSDLWKLLPE,apoptosis,20.0,SUPPORTED,apoptosis;necrosis,10.1073/pnas.0900947106,19255450.0,Structural basis for high-affinity peptide inhibition of p53 interactions with MDM2 and MDMX.,SUPPORTED,SUPPORTS_LABEL,TRUNCATED_AUTHOR_LIST,1,False
+ETFSDLWKLLPE,pyroptosis,20.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1073/pnas.0900947106,19255450.0,Structural basis for high-affinity peptide inhibition of p53 interactions with MDM2 and MDMX.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+FAFAFKAF,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FAKKLAKKLAKKLAKKLAK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+FAKKLAKKLAKLAKKLAKAL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FAKKLAKLAKKLAKLAK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+FAKKLAKLAKKLAKLAK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,TRUNCATED_AUTHOR_LIST,1,False
+FAKKLAKLAKKLAKLAL,pyroptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1128/aac.49.7.2921-2927.2005,15980369.0,Antimicrobial peptide therapeutics for cystic fibrosis.,HITS_BUT_NO_MECHANISM_EVIDENCE,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+FAKLLAKLAKKLAKLL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FAVGLAKAALKLAC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+FAVWGCADYRGY,pyroptosis,7.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3390/toxins14100722,36287990.0,Peptides Isolated from Amphibian Skin Secretions with Emphasis on Antimicrobial Peptides.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,4,False
+FCFWEC,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FFALGVGALKFALHG,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+FFGWLIKGAIHAGKAIHGLI,pyroptosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+FFGWLIKGAIHAGKAIHGLIHRRRH,necrosis,3.0,SUPPORTED,necrosis,10.2174/0929867311320150003,23432591.0,ATP synthase: a molecular therapeutic drug target for antimicrobial and antitumor peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+FFGWLIRGAIHAGKAIHGLIHRRRH,necrosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/pharmaceutics14122686,36559179.0,Role of Anti-Cancer Peptides as Immunomodulatory Agents: Potential and Design Strategy.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+FFHHIFRGIVHVGKTIHRLVTG,necrosis,44.0,SUPPORTED,apoptosis;necrosis,10.1371/journal.pone.0050263,23226256.0,"Five different piscidins from Nile tilapia, Oreochromis niloticus: analysis of their expressions and biological functions.",SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+FFIGHIKQLLHFFKTSR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FFRNLWKGAKAAFRAGHAAWRA,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.4103/rps.rps_75_24,40444161.0,Exploring the potential of anticancer peptides as therapeutic agents for cancer treatment.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,2,False
+FIFHIIKGLFHAGKMIHGLV,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1101/2025.06.12.659415,,Tagging fluorescent reporter to epinecidin-1 antimicrobial peptide,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+FIGGIISFIKKLF,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FIHHIFRGIVHAGKTIHRLVTG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FIHHIIGWFSKGGEE,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FIPFDPMSMRWE,apoptosis,2.0,SUPPORTED,apoptosis,10.1371/journal.pone.0160980,27513518.0,"Tumor-Specific Peptide, Selected from a Phage Peptide Library, Enhances Antitumor Activity of Lactaptin.",SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH,1,True
+FKCRRWQWRM,necrosis,16.0,SUPPORTED,apoptosis;necrosis,10.1007/s00018-005-5373-z,16261252.0,"Lactoferricin: a lactoferrin-derived peptide with antimicrobial, antiviral, antitumor and immunological properties.",SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+FKCRRWQWRM,pyroptosis,16.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1007/s00018-005-5373-z,16261252.0,"Lactoferricin: a lactoferrin-derived peptide with antimicrobial, antiviral, antitumor and immunological properties.",ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,TRUNCATED_AUTHOR_LIST,1,False
+FKCRRWQWRMK,pyroptosis,1.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1002/psc.365,11831560.0,The effects of charge and lipophilicity on the antibacterial activity of undecapeptides derived from bovine lactoferricin.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+FKCRRWQWRMKKLG,apoptosis,11.0,SUPPORTED,apoptosis;necrosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+FKCRRWQWRMKKLG,pyroptosis,11.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,1,False
+FKCRRWQWRMKKLGA,necrosis,23.0,SUPPORTED,apoptosis;necrosis,10.1007/s00018-005-5373-z,16261252.0,"Lactoferricin: a lactoferrin-derived peptide with antimicrobial, antiviral, antitumor and immunological properties.",SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+FKCRRWQWRMKKLGA,pyroptosis,23.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1007/s00018-005-5373-z,16261252.0,"Lactoferricin: a lactoferrin-derived peptide with antimicrobial, antiviral, antitumor and immunological properties.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+FKCRRWQWRMKKLGAPSITCVRRAF,apoptosis,61.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+FKCRRWQWRMKKLGAPSITCVRRAF,necrosis,61.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+FKCRRWQWRMKKLGAPSITCVRRAF,pyroptosis,61.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,3,False
+FKIERLKLWKKLAKKLAKL,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FKKLKKLFSKLWNWK,apoptosis,10.0,SUPPORTED,apoptosis;necrosis,10.3390/ijms22020482,33418930.0,Therapeutic Potential of Antimicrobial Peptides in Polymicrobial Biofilm-Associated Infections.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+FKKLKKLFSKLWNWK,pyroptosis,10.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3390/ijms22020482,33418930.0,Therapeutic Potential of Antimicrobial Peptides in Polymicrobial Biofilm-Associated Infections.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+FKKLKKTFSKLKLAL,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FKKLKKTFSKLKLALYGRKKRRQRRR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FKLAKALAKL,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+FKRIVQRIKDFLRNLV,apoptosis,28.0,SUPPORTED,apoptosis;necrosis,10.3389/fonc.2015.00144,26175965.0,The Human Cathelicidin Antimicrobial Peptide LL-37 and Mimics are Potential Anticancer Drugs.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE;TRUNCATED_AUTHOR_LIST,4,False
+FKRIVQRIKDFLRNLV,pyroptosis,28.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3389/fonc.2015.00144,26175965.0,The Human Cathelicidin Antimicrobial Peptide LL-37 and Mimics are Potential Anticancer Drugs.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,RECENT_FEW_AUTHORS;TRUNCATED_AUTHOR_LIST,2,False
+FLFSLIPHA,apoptosis,1.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3390/antibiotics13050422,38786150.0,Short-Chained Linear Scorpion Peptides: A Pool for Novel Antimicrobials.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+FLGALFKALSKLL,necrosis,9.0,SUPPORTED,necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+FLGALFKALSKLL,pyroptosis,9.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS;TRUNCATED_AUTHOR_LIST,3,False
+FLGALFKVASKVLPSVFCAITKKC,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+FLGALFKVASKVLPSVKCAITKKC,necrosis,4.0,SUPPORTED,necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+FLGGLIKIVPAMICAVTKKC,pyroptosis,12.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3389/fimmu.2018.03128,30692997.0,Frog Skin Innate Immune Defences: Sensing and Surviving Pathogens.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,RECENT_FEW_AUTHORS,1,False
+FLGGLMKIIPAAAQL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLGGLMKIIPAAAQLC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLGMIPAALAGIGKILL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLGMIPCAIKLISC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+FLGMIPKLVAGALKALKCKITAC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLGMIPKLVAGIGKLL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLGMWSKILGHLIK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLGTLINLAKKIM,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLKALKKALALAKKIL,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLLGGLIGSAGSLIGALSKL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLPAIAGVAAKFLPKIFCAISKKC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+FLPAIVGAAAKFLPQLFCAISKKC,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLPAIVGAAGQSLLKVLTCKLDKTC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLPIGAIPGAIGKIAS,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLPILASLAAGIL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLPILASLAAKFGPKLFCLVTKKC,necrosis,9.0,SUPPORTED,apoptosis;necrosis,10.3389/fimmu.2018.03128,30692997.0,Frog Skin Innate Immune Defences: Sensing and Surviving Pathogens.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+FLPILASLIGGLL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,TRUNCATED_AUTHOR_LIST,1,False
+FLPIVGKLLSGLL,pyroptosis,5.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1016/j.dci.2009.07.004,19622371.0,Variations in the expressed antimicrobial peptide repertoire of northern leopard frog (Rana pipiens) populations suggest intraspecies differences in resistance to pathogens.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+FLPLAVSLAANFLPKLFCKITKKC,necrosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/biom11081120,34439786.0,Biomedical Relevance of Novel Anticancer Peptides in the Sensitive Treatment of Cancer.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+FLPLIGKILSGLL,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLPLIGRVLSGIL,necrosis,72.0,SUPPORTED,apoptosis;necrosis,10.1124/pr.109.001578,19498085.0,International Union of Basic and Clinical Pharmacology. LXXIII. Nomenclature for the formyl peptide receptor (FPR) family.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+FLPLIGRVLSGIL,pyroptosis,72.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1124/pr.109.001578,19498085.0,International Union of Basic and Clinical Pharmacology. LXXIII. Nomenclature for the formyl peptide receptor (FPR) family.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,4,False
+FLPLILRKIVTAL,necrosis,8.0,SUPPORTED,apoptosis;necrosis,10.3390/toxins8020032,26805885.0,Differential Properties of Venom Peptides and Proteins in Solitary vs. Social Hunting Wasps.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+FLPLLAGLAANFLPTIICFISYKC,necrosis,4.0,SUPPORTED,necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+FLPLLAGLAANFLPTIICISKKC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+FLPVIAGLLSKLF,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/ijms24065426,36982501.0,Temporins: Multifunctional Peptides from Frog Skin.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+FLPVIAGLLSKLF,pyroptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/ijms24065426,36982501.0,Temporins: Multifunctional Peptides from Frog Skin.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+FLPVLAGIAAKVPALFCKITKKC,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLPVLAGIGSMVPKVICITKKC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLSLIPAAISAVSALAANF,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLSLIPAAISAVSALANHF,necrosis,5.0,SUPPORTED,necrosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+FLSLIPAGINAVSALAANF,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLSLIPHAINAVSAIAKHF,apoptosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules18067058,23774944.0,The skin secretion of the amphibian Phyllomedusa nordestina: a source of antimicrobial and antiprotozoal peptides.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+FLSLIPHAINAVSAIAKHF,pyroptosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules18067058,23774944.0,The skin secretion of the amphibian Phyllomedusa nordestina: a source of antimicrobial and antiprotozoal peptides.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,2,False
+FLSLIPHAINAVSAIAKHN,necrosis,7.0,SUPPORTED,necrosis,10.1016/j.peptides.2004.11.002,15752569.0,Phylloseptins: a novel class of anti-bacterial and anti-protozoan peptides from the Phyllomedusa genus.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+FLSLIPHAINAVSAIAKHN,pyroptosis,7.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1016/j.peptides.2004.11.002,15752569.0,Phylloseptins: a novel class of anti-bacterial and anti-protozoan peptides from the Phyllomedusa genus.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+FLSLIPHAINAVSAVVKL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FLSLIPHIVSAVSAIAKHN,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLSLIPHIVSAVSKALKHN,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLSLIPHIVSGVASIAKHF,pyroptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1016/j.crmicr.2023.100182,36926259.0,Effect of charge on the antimicrobial activity of alpha-helical amphibian antimicrobial peptide.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+FLSLIPKAIAGVAKLAKK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FLTD,pyroptosis,415.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/s41422-019-0164-5,30948788.0,The molecular machinery of regulated cell death.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+FQFQFKFQFQFK,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1016/j.jconrel.2022.08.027,35998769.0,Impact of doubling peptide length on in vivo hydrogel stability and sustained drug release.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+FQWQRNMRKVR,apoptosis,16.0,SUPPORTED,apoptosis;necrosis,10.1128/iai.69.3.1469-1476.2001,11179314.0,Human lactoferrin and peptides derived from its N terminus are highly effective against infections with antibiotic-resistant bacteria.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+FRGMATVVGGVAKGLAKALAKQGLAKLASKMI,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+FVDLKKIANIINSIF,apoptosis,9.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+FWGALAKGALKLIPSLFSS,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+FWGALAKGALKLIPSLFSSFSKKD,necrosis,9.0,SUPPORTED,necrosis,10.1016/j.toxicon.2014.06.006,24951876.0,Antimicrobial peptides from scorpion venoms.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+GALFLGWLGAAGSTMGAWSQPKKKRKV,pyroptosis,4.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1208/s12248-008-9055-2,18726697.0,CNS delivery via adsorptive transcytosis.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+GFCRCLCRRGVCRCICTR,apoptosis,19.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3389/fmicb.2020.566325,33193155.0,Natural Anti-biofilm Agents: Strategies to Control Biofilm-Forming Pathogens.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,1,False
+GFFALGVGALAFDVVKVVIA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GFFALGVGALAFDVVKVVIAEMGIEIL,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GFFALGVGALAFDVVKVVKEAG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GFFALGVGALAFDVVKVVKEAGR,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GFFALGVGALAFDVVKVVKEAGRG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GFFALGVGALAFDVVKVVKEAGRH,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GFFALGVGALKFALHGALANREVLI,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GFFALGVGALKFALHGALSAALSSAC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GFFALIPKIISSPLFKTLLSAVGSALSSSGEQE,necrosis,5.0,SUPPORTED,necrosis,10.3389/fnins.2017.00073,28261050.0,Membrane Active Antimicrobial Peptides: Translating Mechanistic Insights to Design.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+GFFALIPKIISSPLFKTLLSAVGSALSSSGEQE,pyroptosis,5.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3389/fnins.2017.00073,28261050.0,Membrane Active Antimicrobial Peptides: Translating Mechanistic Insights to Design.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE,apoptosis,27.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/s41467-019-11269-8,31350406.0,Targeting photodynamic and photothermal therapy to the endoplasmic reticulum enhances immunogenic cancer cell death.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE,pyroptosis,27.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/s41467-019-11269-8,31350406.0,Targeting photodynamic and photothermal therapy to the endoplasmic reticulum enhances immunogenic cancer cell death.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+GFGALFKFLAKKVAKTVAKQGAKLALHTAKELASTM,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GFGCNGPWDEDDMQCHNHCKSIKGYKGGYCAKGGFVCKCY,necrosis,18.0,SUPPORTED,necrosis,10.3390/molecules27092675,35566025.0,Antimicrobial Mechanisms and Clinical Application Prospects of Antimicrobial Peptides.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+GFGCPFNQGACHRHCRSIRRRGGYCAGLFKQTCTCYR,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GFGMALKLLKKVL,pyroptosis,6.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3390/ijms22168613,34445319.0,"Membrane Association Modes of Natural Anticancer Peptides: Mechanistic Details on Helicity, Orientation, and Surface Coverage.",ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+GFLDIIKDTGKEFAKCAAKCKVTGGC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GFLDIIKDTGKEFAVKILEN,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GFLDIIKDTLGAFA,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GFLDTVKGAAKDLAGKL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GFLGIVKMALKLIPSL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GFLGKLWEGIKNAGKG,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+GFLSILKKVLPKVMAHMK,pyroptosis,11.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1128/aac.01448-09,20086159.0,Identification of novel human immunodeficiency virus type 1-inhibitory peptides based on the antimicrobial peptide database.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+GFMDLAKKALAKAAAKAL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+GFMKYIGPVIICAC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,TRUNCATED_AUTHOR_LIST,1,False
+GFMKYLGGVAGSL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GFMKYLGPLLLSAGKALKH,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GGLRSLGRKILRAWKKYGPIIVPIIRI,apoptosis,17.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+GGLRSLGRKILRAWKKYGPIIVPIIRI,necrosis,17.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+GGLRSLGRKILRAWKKYGPIIVPIIRIG,apoptosis,16.0,SUPPORTED,apoptosis;necrosis,10.1016/j.chemphyslip.2011.09.004,21945565.0,Membrane-active host defense peptides--challenges and perspectives for the development of novel anticancer drugs.,SUPPORTED,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+GGLRSLGRKILRAWKKYGPIIVPIIRIG,necrosis,16.0,SUPPORTED,apoptosis;necrosis,10.1016/j.chemphyslip.2011.09.004,21945565.0,Membrane-active host defense peptides--challenges and perspectives for the development of novel anticancer drugs.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+GGLRSLGRKILRAWKKYGPPIVPIIRI,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GGMWKSLWKLWKLLKK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIFSKLAGKKLKNLLISGLKN,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC,apoptosis,4.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3389/fchem.2021.691532,34222199.0,Antimicrobial Peptides and Proteins: From Nature's Reservoir to the Laboratory and Beyond.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC,necrosis,4.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3389/fchem.2021.691532,34222199.0,Antimicrobial Peptides and Proteins: From Nature's Reservoir to the Laboratory and Beyond.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+GIFSKLGRKKIKNLLISKLKGAAQGE,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIFSKLGRKKKNLL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GIFSKLGRKKKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIGALSAKAGKAALGLVTGVMIGEV,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GIGAVLKVLTTGL,pyroptosis,7.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1073/pnas.91.10.4333,8183908.0,Mass spectrometric molecular-weight determination of highly acidic compounds of biological significance via their complexes with basic polypeptides.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+GIGAVLKVLTTGLPALISWIKR,apoptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1021/acs.analchem.5c08256,42117226.0,Assessment of Protein Conformation via Diazirine-Promoted Oxidation of Methionine and Tryptophan Residues.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+GIGAVLKVLTTGLPALISWIKRKRQQ,apoptosis,330.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+GIGAVLKVLTTGLPALISWIKRKRQQ,necrosis,330.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+GIGAVLKVLTTGLPALISWIKRKRQQ,pyroptosis,330.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,4,False
+GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP,necrosis,38.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.3390/ph7050545,24828484.0,Human antimicrobial peptides and proteins.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP,pyroptosis,38.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.3390/ph7050545,24828484.0,Human antimicrobial peptides and proteins.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,2,False
+GIGGKILSGLKTALKGAAKELASTYL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIGGKILSGLKTALKGAAKELASTYL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIGGKILSGLKTALKGAAKELASTYLH,necrosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.2174/157016212799304580,22264047.0,Mechanisms and modifications of naturally occurring host defense peptides for anti-HIV microbicide development.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+GIGKFLHSAGKFGKAFVGEIMKS,apoptosis,40.0,SUPPORTED,apoptosis;necrosis,10.1073/pnas.1008768107,20956332.0,Electrical detection of pathogenic bacteria via immobilized antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+GIGKFLHSAKKFGKAFVGEIMNS,apoptosis,148.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+GIGKFLHSAKKFGKAFVGEIMNS,necrosis,148.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,5,False
+GIGKFLHSAKKFGKAFVGEIMNS,pyroptosis,148.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,4,False
+GIGKFLKKAKKFGKAFVKILKK,necrosis,84.0,SUPPORTED,apoptosis;necrosis,10.1073/pnas.0708254105,18287037.0,"Peptoids that mimic the structure, function, and mechanism of helical antimicrobial peptides.",SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+GIGKFLKKAKKFGKAFVKILKK,pyroptosis,84.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1073/pnas.0708254105,18287037.0,"Peptoids that mimic the structure, function, and mechanism of helical antimicrobial peptides.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+GIGKFLKKAKKFGKAFVKILKKI,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIGKWLHSAKKFGKAFVGEIMNS,apoptosis,18.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1021/bi0256983,12186559.0,Position-dependent hydrophobicity of the antimicrobial magainin peptide affects the mode of peptide-lipid interactions and selective toxicity.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+GIGSAILSAGKSIIKGLAKGLAEHF,apoptosis,7.0,SUPPORTED,apoptosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+GIGTKILGGVKTALKGALKAL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GIGTKILGGVKTALKGALKELASTYL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIINTLQKYYCRVRG,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK,necrosis,90.0,SUPPORTED,apoptosis;necrosis,10.3390/ph7050545,24828484.0,Human antimicrobial peptides and proteins.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK,pyroptosis,90.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3390/ph7050545,24828484.0,Human antimicrobial peptides and proteins.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,TRUNCATED_AUTHOR_LIST,1,False
+GILDTLKNLAKTAGKGAKALAKLAKVTMPAL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GIMDTIKNVAKNVAKAGLDKLKCKITGC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+GIMDTVKNAAKNLAGQLLDKLKCSITAC,necrosis,4.0,SUPPORTED,apoptosis;necrosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+GIMDTVKNVAKNIAKEMLNTLKCSTCKLC,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIMDTVKNVAKNVAGILLDKLKCKITGC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GIMSLFKGVLKTAGKHVAGLLNTNK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GIWGKIKGAKGIGGIAAGIGGL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+GKPRPYSPRPTSHPRPIRV,necrosis,29.0,SUPPORTED,necrosis,10.1021/jm100054f,20334364.0,Heat shock protein 70 (hsp70) as an emerging drug target.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GKWMSLLKHILK,pyroptosis,3.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3390/ph11010020,29462909.0,Antimicrobial Peptides for Topical Treatment of Osteomyelitis and Implant-Related Infections: Study in the Spongy Bone.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+GLFDIIKKIAESF,apoptosis,64.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+GLFDIIKKIAESF,necrosis,64.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,5,False
+GLFDIIKKIAESF,pyroptosis,64.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,4,False
+GLFDIIKKIAESFGG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GLFDIIKKIAESI,apoptosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1038/s41598-018-19752-w,29374199.0,AmPEP: Sequence-based prediction of antimicrobial peptides using distribution patterns of amino acid properties and random forest.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,2,False
+GLFDIIKKIAESI,necrosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1038/s41598-018-19752-w,29374199.0,AmPEP: Sequence-based prediction of antimicrobial peptides using distribution patterns of amino acid properties and random forest.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,2,False
+GLFDIVKKIAGHIAGSI,necrosis,6.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1046/j.1432-1327.2000.01536.x,10951191.0,The antibiotic and anticancer active aurein peptides from the Australian Bell Frogs Litoria aurea and Litoria raniformis the solution structure of aurein 1.2.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+GLFDIVKKIAGHIAGSI,pyroptosis,6.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1046/j.1432-1327.2000.01536.x,10951191.0,The antibiotic and anticancer active aurein peptides from the Australian Bell Frogs Litoria aurea and Litoria raniformis the solution structure of aurein 1.2.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,2,False
+GLFDIVKKIAGHIVSSI,apoptosis,4.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1038/s41467-022-32039-z,35896552.0,The Cryo-EM structures of two amphibian antimicrobial cross-β amyloid fibrils.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,1,False
+GLFDIVKKIAGHVAGSL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GLFDIVKKVVGAAGSL,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1016/j.bpj.2010.08.077,21044590.0,Importance of residue 13 and the C-terminus for the structure and activity of the antimicrobial peptide aurein 2.2.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+GLFDIVKKVVGALGSL,apoptosis,10.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1046/j.1432-1327.2000.01536.x,10951191.0,The antibiotic and anticancer active aurein peptides from the Australian Bell Frogs Litoria aurea and Litoria raniformis the solution structure of aurein 1.2.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+GLFDIVKKVVGALGSL,necrosis,10.0,SUPPORTED,necrosis,10.1046/j.1432-1327.2000.01536.x,10951191.0,The antibiotic and anticancer active aurein peptides from the Australian Bell Frogs Litoria aurea and Litoria raniformis the solution structure of aurein 1.2.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+GLFDIVKKVVGALGSL,pyroptosis,10.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1046/j.1432-1327.2000.01536.x,10951191.0,The antibiotic and anticancer active aurein peptides from the Australian Bell Frogs Litoria aurea and Litoria raniformis the solution structure of aurein 1.2.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+GLFDIVKKVVGTLAGL,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1038/s41598-022-24404-1,36535969.0,ACPred-BMF: bidirectional LSTM with multiple feature representations for explainable anticancer peptide prediction.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+GLFDVIKKVASVIGGL,necrosis,51.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+GLFDVIKKVASVIGGL,pyroptosis,51.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+GLFGVLAKVAAHVVPAIAEHF,apoptosis,19.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1529/biophysj.107.116525,17704161.0,Specific and selective peptide-membrane interactions revealed using quartz crystal microbalance.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,1,False
+GLFGVLAKVAAHVVPAIAEHF,necrosis,19.0,SUPPORTED,necrosis,10.1529/biophysj.107.116525,17704161.0,Specific and selective peptide-membrane interactions revealed using quartz crystal microbalance.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+GLFSVLGAVAKHVLPHVVPVIAEHL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLGGLQALLCAANMCAAAGGAACAAAGGA,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GLIQTIKEKLKELAGGLVTGIQS,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1046/j.1432-1327.2000.01536.x,10951191.0,The antibiotic and anticancer active aurein peptides from the Australian Bell Frogs Litoria aurea and Litoria raniformis the solution structure of aurein 1.2.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GLKLWGKALKGAAKIGAKAGLVAGVAVGGITAC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GLLDFVTGVGKDIASSLLE,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+GLLDIIKDTLGAFA,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDIVKK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GLLDIVKKVVGAAGSL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDIVKKVVGAFGSL,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3389/fimmu.2018.03128,30692997.0,Frog Skin Innate Immune Defences: Sensing and Surviving Pathogens.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+GLLDIVKKVVGAFGSL,pyroptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3389/fimmu.2018.03128,30692997.0,Frog Skin Innate Immune Defences: Sensing and Surviving Pathogens.,HITS_BUT_NO_MECHANISM_EVIDENCE,MENTIONS_OTHER_MECHANISM_ONLY,NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+GLLDIVKKVVGAL,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDIVKQIARGIAGIIKFIK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDIVKQIARGIAGIIKFIKCC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDIVTGLLGNLIVDVLKPKTPAS,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1046/j.1432-1327.2000.01536.x,10951191.0,The antibiotic and anticancer active aurein peptides from the Australian Bell Frogs Litoria aurea and Litoria raniformis the solution structure of aurein 1.2.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GLLDSVKNVAKNVAGAL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GLLDSVKNVAKNVAVSLLACI,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDTIKGAAKGLAALAHKFAEKCKVTGGC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GLLDTIKGEAFSIL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDTIKGVAKGVATVAHKVKEKLQCKVTGGC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDTIKGVAKNVAGSLLACI,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDTLKGAAKDVAGKL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLDVVKGVLKGVGKNVAGSLLE,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+GLLKRIKTLL,apoptosis,43.0,SUPPORTED,apoptosis;necrosis,10.3389/fchem.2021.691532,34222199.0,Antimicrobial Peptides and Proteins: From Nature's Reservoir to the Laboratory and Beyond.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+GLLKRIKTLL,necrosis,43.0,SUPPORTED,apoptosis;necrosis,10.3389/fchem.2021.691532,34222199.0,Antimicrobial Peptides and Proteins: From Nature's Reservoir to the Laboratory and Beyond.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+GLLNALLGAKLDAVAGKLLEKVKCKITGC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE,necrosis,3.0,SUPPORTED,necrosis,10.3389/fmicb.2018.01351,30018595.0,<i>Candida</i> Infections and Therapeutic Strategies: Mechanisms of Action for Traditional and Alternative Agents.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPEQ,apoptosis,44.0,SUPPORTED,apoptosis;necrosis,10.1124/pr.109.001578,19498085.0,International Union of Basic and Clinical Pharmacology. LXXIII. Nomenclature for the formyl peptide receptor (FPR) family.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+GLLSFLPKVLGVLSAL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLSGGVGLVGAC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLSGILGAGKHIVCGLSGLC,pyroptosis,6.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1007/s00018-011-0720-8,21560068.0,Structural diversity and species distribution of host-defense peptides in frog skin secretions.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+GLLSGILGAGKHIVKGLAKIAG,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+GLLSGILGAGKHIVKGLF,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLLSKVLGVGKKVLCGVSGLVC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GLNTLKKVFQGLHEAIKQIADWHNN,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GLPVCGETCVGGTCNTPGCTCSWPVCTRN,necrosis,13.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1074/jbc.m111.264424,21873420.0,Identification and characterization of a new family of cell-penetrating peptides: cyclic cell-penetrating peptides.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+GLWSKIKDAAKTAGKAALGFVNEMV,necrosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+GLWSKIKEVGKEAAKAAAAMAK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+GLWSKIKEVGKEAAKAAAAMAKEMVKAVGGGAISDA,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLWSKIKEVGKEAAKAAAAMAKTAVELAKEMGAT,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV,necrosis,15.0,SUPPORTED,apoptosis;necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV,pyroptosis,15.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+GLWSKIKTAGKEAAKAAAKAAGKAALGAVSEAV,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GLWSKIKTAGKEVAKAAAKAAGKAALNAVT,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GPLGAGP,apoptosis,3.0,SUPPORTED,apoptosis,10.3390/foods11213507,36360120.0,Preparation and Characterization of an Anticancer Peptide from Oriental Tonic Food <i>Enteromorpha prolifera</i>.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;RECENT_FEW_AUTHORS,1,False
+GQVGRQLAIIGDDINRRYDSE,apoptosis,1.0,SUPPORTED,apoptosis,10.1038/s41418-025-01454-2,39901037.0,Deciphering molecular specificity in MCL-1/BAK interaction and its implications for designing potent MCL-1 inhibitors.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+GRFKRFRKKFKKLFKKLSPVIPLLHL,apoptosis,18.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+GRFKRFRKKFKKLFKKLSPVIPLLHL,necrosis,18.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+GRFKRFRKKLKRLWAKKI,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GRKKRRQRRRPPQWMWVTNLRTD,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,NONE,2,False
+GRKKRRQRRRPQ,pyroptosis,172.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1021/acs.chemrev.9b00008,31083977.0,Understanding Cell Penetration of Cyclic Peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+GRRKRKWLRRIGKGVKIIGGAALDHL,apoptosis,22.0,SUPPORTED,apoptosis;necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+GRRKRKWLRRIGKGVKIIGGAALDHL,necrosis,22.0,SUPPORTED,apoptosis;necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+GSRAHSSHLKSKKGQSTSRHKK,apoptosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1128/mcb.19.5.3395,10207063.0,Reactivation of mutant p53 through interaction of a C-terminal peptide with the core domain.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+GSRAHSSHLKSKKGQSTSRHKKWKMRRNQFWVKVQRG,necrosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1371/journal.pone.0146552,26808536.0,Rational Design of a Carrier Protein for the Production of Recombinant Toxic Peptides in Escherichia coli.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,2,False
+GVPCAESCVWIPCTVTALLGCSCSNNVCYNG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+GVWDTIKGVAKKAAAGLLSGLAGALIGGLIS,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+GWGSFFKKAAHVGKHVGKAALTHYL,necrosis,35.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.3390/biom10040652,32340301.0,Antimicrobial and Antibiofilm Peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+GWGSFFKKAAHVGKHVGKAALTHYL,pyroptosis,35.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.3390/biom10040652,32340301.0,Antimicrobial and Antibiofilm Peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+GWKDWAKKAGGWLKKKGIVDIAC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+HPKFELY,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+HPKFEWL,apoptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+HPKFIKELR,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+HQAEVQIARKLQCIADQFHRLHV,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+HSSKLQL,apoptosis,11.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1007/s00604-017-2410-1,29109592.0,Nanomaterial-based biosensors for detection of prostate specific antigen.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+IAGLLDIVK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+IASKFICTPGCAKTGSFNSYCC,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1007/s00253-023-12388-5,36763118.0,Class II two-peptide lanthipeptide proteases: exploring LicTP for biotechnological applications.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+IDWKKLLDAAKQIL,apoptosis,41.0,SUPPORTED,apoptosis;necrosis,10.1016/j.chemphyslip.2011.09.004,21945565.0,Membrane-active host defense peptides--challenges and perspectives for the development of novel anticancer drugs.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+IDWKKLLDAAKQIL,necrosis,41.0,SUPPORTED,apoptosis;necrosis,10.1016/j.chemphyslip.2011.09.004,21945565.0,Membrane-active host defense peptides--challenges and perspectives for the development of novel anticancer drugs.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+IGKEFKRIVQRIKDFLRNLVPRTES,necrosis,11.0,SUPPORTED,apoptosis;necrosis,10.3390/antibiotics10060650,34072318.0,The Potential of Human Peptide LL-37 as an Antimicrobial and Anti-Biofilm Agent.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+IIGPVLGLVGKALGGLL,apoptosis,7.0,SUPPORTED,apoptosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+IIGPVLGLVGSALGGLLKKI,necrosis,9.0,SUPPORTED,necrosis,10.1128/aac.00796-07,17954700.0,Comparative analysis of the bactericidal activities of amphibian peptide analogues against multidrug-resistant nosocomial bacterial strains.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+IIGPVLGMVGSALGGLLKKI,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+IKKILSKIKKLLK,pyroptosis,9.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules24101973,31121946.0,ACPred: A Computational Tool for the Prediction and Analysis of Anticancer Peptides.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+ILPWKWPWWPWRR,apoptosis,151.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1073/pnas.97.16.8856,10922046.0,The role of antimicrobial peptides in animal defenses.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+ILPWKWPWWPWRR,necrosis,151.0,SUPPORTED,necrosis,10.1073/pnas.97.16.8856,10922046.0,The role of antimicrobial peptides in animal defenses.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+ILPWKWPWWPWRR,pyroptosis,151.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1073/pnas.97.16.8856,10922046.0,The role of antimicrobial peptides in animal defenses.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,4,False
+INLKALAALAKKIL,apoptosis,103.0,SUPPORTED,apoptosis;necrosis,10.3762/bjnano.11.10,31976201.0,Internalization mechanisms of cell-penetrating peptides.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+INLKALAALAKKIL,necrosis,103.0,SUPPORTED,apoptosis;necrosis,10.3762/bjnano.11.10,31976201.0,Internalization mechanisms of cell-penetrating peptides.,SUPPORTED,SUPPORTS_LABEL,NONE;RECENT_FEW_AUTHORS,3,False
+INLKALAALAKKIL,pyroptosis,103.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3762/bjnano.11.10,31976201.0,Internalization mechanisms of cell-penetrating peptides.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,2,False
+INLKALAALAKKILRRRR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+INWKDIAGEVLKMVK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+INWKGIAAMAKKLL,apoptosis,37.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1016/j.devcel.2017.12.011,29316443.0,Mechanism and Determinants of Amphipathic Helix-Containing Protein Targeting to Lipid Droplets.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+INWKGIAAMAKKLL,necrosis,37.0,SUPPORTED,necrosis,10.1016/j.devcel.2017.12.011,29316443.0,Mechanism and Determinants of Amphipathic Helix-Containing Protein Targeting to Lipid Droplets.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+INWKKIAEIGKKVL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+INWLKLGKMVIDAL,pyroptosis,13.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3390/toxins8020032,26805885.0,Differential Properties of Venom Peptides and Proteins in Solitary vs. Social Hunting Wasps.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,1,False
+ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK,necrosis,25.0,SUPPORTED,apoptosis;necrosis,10.1111/jam.13033,26678028.0,Biomedical applications of nisin.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK,pyroptosis,25.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1111/jam.13033,26678028.0,Biomedical applications of nisin.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+IWIAQELRRIGDEFNAYYAR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,TRUNCATED_AUTHOR_LIST,1,False
+IWLTALKFLGKNLGKHLAKQQLAKLVTG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+IWLTALKFLGKNMADKAE,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+IWSFLIKAATKLIPSLFRALWRED,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+IWSILAPLLGEVLKLLKNAG,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KETWWETWWTEWSQPKKKRKV,pyroptosis,90.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1111/j.1476-5381.2009.00057.x,19309362.0,Twenty years of cell-penetrating peptides: from molecular mechanisms to therapeutics.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+KFAKFAKKFAKFAK,apoptosis,5.0,SUPPORTED,apoptosis;necrosis,10.1038/s41388-018-0558-8,30361686.0,Adipose stromal cell targeting suppresses prostate cancer epithelial-mesenchymal transition and chemoresistance.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+KFAKFAKKFAKFAK,necrosis,5.0,SUPPORTED,apoptosis;necrosis,10.1038/s41388-018-0558-8,30361686.0,Adipose stromal cell targeting suppresses prostate cancer epithelial-mesenchymal transition and chemoresistance.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+KFAKFAKKFAKFAKKFAK,apoptosis,2.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3762/bjoc.14.80,29765474.0,On the design principles of peptide-drug conjugates for targeted drug delivery to the malignant tumor site.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+KFAKFAKKFAKFAKKFAK,pyroptosis,2.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3762/bjoc.14.80,29765474.0,On the design principles of peptide-drug conjugates for targeted drug delivery to the malignant tumor site.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+KFFKFFKFFK,pyroptosis,61.0,SUPPORTED,necrosis;pyroptosis,10.1038/86753,11283595.0,Bactericidal antisense effects of peptide-PNA conjugates.,SUPPORTED,MENTIONS_OTHER_MECHANISM_ONLY,NONE,2,False
+KIKWFKTMKSIAKFIAKEQMKKHLGAKKF,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KILRGVCKKIMRTFLRRISKDILTGKK,apoptosis,10.0,SUPPORTED,apoptosis;necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+KILRGVCKKIMRTFLRRISKDILTGKK,necrosis,10.0,SUPPORTED,apoptosis;necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+KKALHAALKWLAKAAA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KKFPWWWPFLKK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KKKALAKALAKALA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+KKKKKKFLFSLIPHA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+KKKKKKKKKKKKKKKK,pyroptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1016/s0140-6736(25)01917-8,41092928.0,"Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KKKKKKKKWRKWLAKK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+KKKKRRFLFSLIPHA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+KKKKRRKKWRKWLAKK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+KKLFKKILKYL,necrosis,74.0,SUPPORTED,necrosis,10.3892/ijo.2020.5099,32705178.0,"Anticancer peptide: Physicochemical property, functional aspect and trend in clinical application (Review).",SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+KKLFKKILKYLGGGRAGLQFPVGRLLRRLLR,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KKLLKKLLKKLLK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KKLLKKLLKKLLKK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KKLSECLKRIGDELDSNMELQR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+KKWKMRRNWK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+KKWRKWLAKK,apoptosis,9.0,SUPPORTED,apoptosis;necrosis,10.3892/ijo.2020.5099,32705178.0,"Anticancer peptide: Physicochemical property, functional aspect and trend in clinical application (Review).",SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+KKWRKWLAKK,necrosis,9.0,SUPPORTED,apoptosis;necrosis,10.3892/ijo.2020.5099,32705178.0,"Anticancer peptide: Physicochemical property, functional aspect and trend in clinical application (Review).",SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+KKWRKWLKWLAKK,apoptosis,6.0,SUPPORTED,apoptosis;necrosis,10.1128/aac.00252-13,23716061.0,Boosting salt resistance of short antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+KKWWKKWK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KKWWKKWWK,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3389/fmed.2025.1548603,40342581.0,Cationic antimicrobial peptides: potential templates for anticancer agents.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+KLAKLAKKLAKLAK,apoptosis,131.0,SUPPORTED,apoptosis;necrosis,10.3892/ijo.2020.5099,32705178.0,"Anticancer peptide: Physicochemical property, functional aspect and trend in clinical application (Review).",SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE;RECENT_FEW_AUTHORS,3,False
+KLAKLAKKLAKLAK,necrosis,131.0,SUPPORTED,apoptosis;necrosis,10.3892/ijo.2020.5099,32705178.0,"Anticancer peptide: Physicochemical property, functional aspect and trend in clinical application (Review).",SUPPORTED,MENTIONS_OTHER_MECHANISM_ONLY,INCOMPLETE_AUTHOR_LIST;NONE,4,False
+KLAKLAKKLAKLAK,pyroptosis,131.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3892/ijo.2020.5099,32705178.0,"Anticancer peptide: Physicochemical property, functional aspect and trend in clinical application (Review).",ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE;TRUNCATED_AUTHOR_LIST,4,False
+KLAKLAKKLAKLAKCRGDKGPDC,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+KLAKLAKKLAKLAKKLAK,pyroptosis,1.0,ONLY_OTHER_MECHANISM:apoptosis,apoptosis,10.1038/ncomms5478,25047118.0,Development of pro-apoptotic peptides as potential therapy for peritoneal endometriosis.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+KLAKLAKKLAKLAKKLAKLAK,apoptosis,1.0,SUPPORTED,apoptosis,10.1002/mabi.201600294,27654639.0,Versatile Nanodelivery Platform to Maximize siRNA Combination Therapy.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+KLAKLAKKLAKLAKYGRKKRRQRRR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,2,False
+KLALKLALKALKAALKLA,necrosis,93.0,SUPPORTED,necrosis,10.1208/s12248-008-9055-2,18726697.0,CNS delivery via adsorptive transcytosis.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+KLFKRIVQRIKDFLR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KLKLKLKLKLKLKLK,necrosis,3.0,SUPPORTED,necrosis,10.1021/jp0767967,18177032.0,Vibrational analysis of amino acids and short peptides in hydrated media. 3. Successive KL repeats induce highly stable beta-strands capable of forming non-H-bonded aggregates.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+KLKNFAKGVAQSLLNKASCKLSGQC,apoptosis,7.0,SUPPORTED,apoptosis;necrosis,10.3390/molecules28031148,36770815.0,Anti-Cancer Peptides: Status and Future Prospects.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+KLKNFAKGVAQSLLNKASCKLSGQC,necrosis,7.0,SUPPORTED,apoptosis;necrosis,10.3390/molecules28031148,36770815.0,Anti-Cancer Peptides: Status and Future Prospects.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+KLLKKLLKKLL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KLLKKLLKKLLK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+KLLKKLLKKLLK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KLLKKLLKLWKKLLK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KLLKLLLKLLK,pyroptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1021/jp074264k,17918991.0,Vibrational analysis of amino acids and short peptides in hydrated media. II. Role of KLLL repeats to induce helical conformations in minimalist LK-peptides.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KLLRKLLRKLL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KPKGHKEYL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KPPWKPKWRPKW,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+KRFKKFFKKKLKNS,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KRFKKFFKKLK,pyroptosis,7.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/1471-2180-11-114,21605457.0,Natural and synthetic cathelicidin peptides with anti-microbial and anti-biofilm activity against Staphylococcus aureus.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+KRFKKFFKKLKNSVKKRAKKFFKKPKV,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KRIVQRIKDFLR,pyroptosis,74.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1093/nar/gkn823,18957441.0,APD2: the updated antimicrobial peptide database and its application in peptide design.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,3,False
+KRRQTSMTDFYHSKRRLIFSKRKP,apoptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1093/emboj/cdf684,12485998.0,PDK1-dependent activation of atypical PKC leads to degradation of the p21 tumour modifier protein.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+KRRW,pyroptosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1136/adc.37.194.345,14462827.0,The natural history of hydrocephalus. Detailed analysis of 182 unoperated cases.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KRRWWRWWRWK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KVGAKALAKALAKALA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KVKVKVKVDPPTKVKVKVK,necrosis,7.0,SUPPORTED,necrosis,10.3390/biom9010022,30634689.0,Combination of Cell-Penetrating Peptides with Nanoparticles for Therapeutic Application: A Review.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+KVKVKVKVPPTKVKVKVK,apoptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/cancers16030541,38339291.0,Editorial for the Specific Issue of Radioprobes and Other Bioconjugates for Cancer Theranostics.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+KWCFRVCYRGACYRKCR,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KWCFRVCYRGACYRRCR,pyroptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/ijms27188141,42794569.0,"WHO Critical Priority Fungi: A Comprehensive Review of Antifungal Resistance, Emerging Therapeutic Strategies, and the Potential of Antifungal Peptides.",HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,TRUNCATED_AUTHOR_LIST,1,False
+KWCFRVCYRGICYRRCR,apoptosis,35.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE;TRUNCATED_AUTHOR_LIST,3,False
+KWCFRVCYRGICYRRCR,necrosis,35.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,5,False
+KWCFRVCYRGICYRRCR,pyroptosis,35.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+KWFRVCYRGICYRRCR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKAL,necrosis,3.0,SUPPORTED,necrosis,10.1007/s00253-016-7718-y,27418360.0,Insect antimicrobial peptides: potential tools for the prevention of skin cancer.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+KWKLFKKIEKVGNGIGAVLKVLTTG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK,apoptosis,57.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,4,False
+KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK,necrosis,57.0,SUPPORTED,necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,5,False
+KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK,pyroptosis,57.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,4,False
+KWKLFKKIEKVGQRVRDAVIS,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KWKLFKKIGAVLKVL,pyroptosis,86.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/nnano.2010.29,20228787.0,Kinetics of antimicrobial peptide activity measured on individual bacterial cells using high-speed atomic force microscopy.,SUPPORTED,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+KWKLFKKIGAVLKVLTTG,pyroptosis,16.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1021/acs.bioconjchem.8b00778,30525488.0,Overcoming Endosomal Entrapment in Drug Delivery.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+KWKLFKKIGIGAVLKVL,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1038/s44222-023-00055-3,37359773.0,Synthetic extracellular matrices with function-encoding peptides.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+KWKLFKKIGIGAVLKVLTTGLPALIS,necrosis,22.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+KWKLFKKIPKFLHLAKKF,apoptosis,16.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1034/j.1399-3011.2001.00934.x,12005420.0,"Antibacterial, antitumor and hemolytic activities of alpha-helical antibiotic peptide, P18 and its analogs.",ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+KWKLFKKIPKFLHLAKKF,necrosis,16.0,SUPPORTED,necrosis,10.1034/j.1399-3011.2001.00934.x,12005420.0,"Antibacterial, antitumor and hemolytic activities of alpha-helical antibiotic peptide, P18 and its analogs.",SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+KWKLFKKIPKFLHLAKKF,pyroptosis,16.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1034/j.1399-3011.2001.00934.x,12005420.0,"Antibacterial, antitumor and hemolytic activities of alpha-helical antibiotic peptide, P18 and its analogs.",ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE;RECENT_FEW_AUTHORS,2,False
+KWKLFKKIPKFLHSA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+KWKLFKKIPKFLHSAKKF,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,2,False
+KWKSFLKTFKSAKKTVLHTALKAISS,apoptosis,8.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1128/aac.00925-06,17158938.0,Role of peptide hydrophobicity in the mechanism of action of alpha-helical antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,apoptosis,30.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,necrosis,30.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,5,False
+KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,pyroptosis,30.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,2,False
+KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWKS,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1155/2019/6815105,31354813.0,Peptide-Protein Interaction Studies of Antimicrobial Peptides Targeting Middle East Respiratory Syndrome Coronavirus Spike Protein: An In Silico Approach.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC,necrosis,6.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1128/aem.58.8.2360-2367.1992,1514784.0,"Cloning, expression, and nucleotide sequence of genes involved in production of pediocin PA-1, and bacteriocin from Pediococcus acidilactici PAC1.0.",HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,2,False
+LAKLAKKLAKLAK,apoptosis,1.0,SUPPORTED,apoptosis,10.7150/ntno.54491,33614399.0,Nanotheranostics through Mitochondria-targeted Delivery with Fluorescent Peptidomimetic Nanohybrids for Apoptosis Induction of Brain Cancer Cells.,SUPPORTED,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+LAVISWKCQEWNSLWKKRKRKT,necrosis,2.0,SUPPORTED,apoptosis;necrosis,10.3390/ijms25137264,39000371.0,Biological Activity of Natural and Synthetic Peptides as Anticancer Agents.,SUPPORTED,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,3,False
+LGLAFTK,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+LKCNKLVPLFYKTCPAGKNLCYKMFMVSNKTVPVKRGCIDVCPKSSLLVKYVCCNTDRCN,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+LKLFFPFLRT,apoptosis,1.0,SUPPORTED,apoptosis,10.1038/s41598-024-78082-2,39521813.0,Anticancer effects of pomegranate-derived peptide PG2 on CDK2 and miRNA-339-5p-mediated apoptosis via extracellular vesicles in acute leukemia.,SUPPORTED,SUPPORTS_LABEL,NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+LKLLKKLLKKLL,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+LKLLKKLLKKLLKLL,necrosis,24.0,SUPPORTED,necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,3,False
+LKWLKKLLKKLLKKLL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+LLGDFFRKSKEKIGKEFFQRIKDFLRNLVPRTES,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,apoptosis,477.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,necrosis,477.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,pyroptosis,477.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,4,False
+LLGMTCSEAQCFAC,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+LLKLFFPFLETG,apoptosis,1.0,SUPPORTED,apoptosis,10.1038/s41598-024-78082-2,39521813.0,Anticancer effects of pomegranate-derived peptide PG2 on CDK2 and miRNA-339-5p-mediated apoptosis via extracellular vesicles in acute leukemia.,SUPPORTED,NO_MECHANISM_KEYWORD,NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+LLKLFFPFLKTG,apoptosis,1.0,SUPPORTED,apoptosis,10.1038/s41598-024-78082-2,39521813.0,Anticancer effects of pomegranate-derived peptide PG2 on CDK2 and miRNA-339-5p-mediated apoptosis via extracellular vesicles in acute leukemia.,SUPPORTED,SUPPORTS_LABEL,NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+LLPIVGNLLKSLL,necrosis,41.0,SUPPORTED,necrosis,10.1042/bj20020806,12133008.0,"Temporin L: antimicrobial, haemolytic and cytotoxic activities, and effects on membrane permeabilization in lipid vesicles.",SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+LLPIVGNLLKSLL,pyroptosis,41.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1042/bj20020806,12133008.0,"Temporin L: antimicrobial, haemolytic and cytotoxic activities, and effects on membrane permeabilization in lipid vesicles.",ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+LLSD,pyroptosis,151.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1128/mr.57.1.138-163.1993,8385262.0,Molecular genetics of aminoglycoside resistance genes and familial relationships of the aminoglycoside-modifying enzymes.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+LNLKALLAVAKKIL,necrosis,7.0,SUPPORTED,necrosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+LQAILKNVPPAAARAYGRKKRRQRRR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+LRLFFPFLRT,apoptosis,1.0,SUPPORTED,apoptosis,10.1038/s41598-024-78082-2,39521813.0,Anticancer effects of pomegranate-derived peptide PG2 on CDK2 and miRNA-339-5p-mediated apoptosis via extracellular vesicles in acute leukemia.,SUPPORTED,SUPPORTS_LABEL,NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+LRRGDEFELRYRRAFSDLTSQLH,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+LRRRKLLRL,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+LRSLGRKILRAWKKYGPIIVPIIRI,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+LSTAADMQGVVTDGMASGLDKDYLKPDD,apoptosis,21.0,SUPPORTED,apoptosis;necrosis,10.1038/s41392-023-01347-1,36859359.0,"Targeting p53 pathways: mechanisms, structures, and advances in therapy.",SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+LTVSPWY,pyroptosis,85.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.jconrel.2010.04.009,20385184.0,The role of HER2 in cancer therapy and targeted drug delivery.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+LTVSPWYWEWTWY,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+LTYNVVKMPE,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+LVMAPRREAPMAGIWG,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+LVRVIRRAAR,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+MAKEFGIPAAVAGTVLNVVEAGGWVTTIVSILTAVGSGGLSLLAAAGRESIKAYLKKEIKKK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+MEALALRLACIGDEMDVSLRAP,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+MIIYRDLISH,apoptosis,16.0,SUPPORTED,apoptosis;necrosis,10.3390/molecules200713055,26205050.0,Cell-type specific penetrating peptides: therapeutic promises and challenges.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+MIIYRDLISHKLAKLAKKLAKLAK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+MRKEFHNVLSSGQLLADKRPARDYNRK,apoptosis,5.0,SUPPORTED,apoptosis;necrosis,10.1016/j.chemphyslip.2011.09.004,21945565.0,Membrane-active host defense peptides--challenges and perspectives for the development of novel anticancer drugs.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+MRPEIWIAQELRRIGDEFNA,apoptosis,46.0,SUPPORTED,apoptosis;necrosis,10.1038/s41591-019-0668-z,31792461.0,A selective BCL-X<sub>L</sub> PROTAC degrader achieves safe and potent antitumor activity.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+MRPEIWIAQELRRIGDEFNAYYAR,apoptosis,1.0,SUPPORTED,apoptosis;necrosis,10.1186/s12885-015-1582-5,26231047.0,Obatoclax is a direct and potent antagonist of membrane-restricted Mcl-1 and is synthetic lethal with treatment that induces Bim.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+NGVQPKYKWWKWWKKWW,apoptosis,9.0,SUPPORTED,apoptosis;necrosis,10.3390/molecules27217232,36364057.0,Peptide-Drug Conjugates: A New Hope for Cancer Management.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+NKRILRILR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+NLWAAQRYGRELRRMSDEFVDSF,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+NLWAAQRYGRELRRMSDEFVDSFK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+NPVSCVRNKGFCAGQRCICPPEFGNKGHCAWVTLACRG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+PADLKDECAQLRRIGDKVNLRQK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+PAELEVECATQLRRFGDKLN,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+PAELEVECATQLRRFGDKLNFRQ,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+PAELEVECATQLRRFGDKLNFRQK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+PDQDATYP,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+PDTYPQDP,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+PPLSQETFSDLWKLLKKWKMRRNQFWVKVQRG,apoptosis,4.0,SUPPORTED,apoptosis,10.1371/journal.pone.0146552,26808536.0,Rational Design of a Carrier Protein for the Production of Recombinant Toxic Peptides in Escherichia coli.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+PPLSQETFSDLWKLLKKWKMRRNQFWVKVQRG,necrosis,4.0,ONLY_OTHER_MECHANISM:apoptosis,apoptosis,10.1371/journal.pone.0146552,26808536.0,Rational Design of a Carrier Protein for the Production of Recombinant Toxic Peptides in Escherichia coli.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE;TRUNCATED_AUTHOR_LIST,4,False
+PPLSQETFSDLWKLLP,apoptosis,4.0,SUPPORTED,apoptosis,10.1038/cdd.2017.42,28362432.0,Regulation of transcriptional activators by DNA-binding domain ubiquitination.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+PPLSQETFSDLWKLLPQIKIWFQNRRMKWKK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,2,False
+QCRRLCYKQRCVTYCRGR,apoptosis,9.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1007/s00018-003-3108-6,14625686.0,Pharmacologically active spider peptide toxins.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,1,False
+QCRRLCYKQRCVTYCRGR,necrosis,9.0,SUPPORTED,necrosis,10.1007/s00018-003-3108-6,14625686.0,Pharmacologically active spider peptide toxins.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+QETFSDLWKLLKKWKMRRNQFWVKVQRG,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+QRSVSNAATRVCRTGR,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,TRUNCATED_AUTHOR_LIST,1,False
+QSQQTFSDLWKLLPEN,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+RAGLQFPVGRLLRRLLR,apoptosis,15.0,SUPPORTED,apoptosis;necrosis,10.1371/journal.pone.0066084,23776609.0,"A cancer specific cell-penetrating peptide, BR2, for the efficient delivery of an scFv into cancer cells.",SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+RAGLQFPVGRLLRRLLR,necrosis,15.0,SUPPORTED,apoptosis;necrosis,10.1371/journal.pone.0066084,23776609.0,"A cancer specific cell-penetrating peptide, BR2, for the efficient delivery of an scFv into cancer cells.",SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+RAGLQFPVGRLLRRLLRRLLR,necrosis,10.0,SUPPORTED,apoptosis;necrosis,10.1073/pnas.150518097,10890923.0,"Structure-activity analysis of buforin II, a histone H2A-derived antimicrobial peptide: the proline hinge is responsible for the cell-penetrating ability of buforin II.",SUPPORTED,NO_MECHANISM_KEYWORD,NONE,3,False
+RECKTESNTFPGICITKPPCRACCIREGRSGGKCFIGFCRRIC,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+RFRPPIRRPPIRPPF,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+RFRPPIRRPPIRPPFYPPFRPPIRPPI,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPIRPPF,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPIRPPFRPPLGPFP,necrosis,13.0,SUPPORTED,necrosis;pyroptosis,10.1073/pnas.97.16.8856,10922046.0,The role of antimicrobial peptides in animal defenses.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+RGGGLCYCRRRFCVCVGR,necrosis,9.0,SUPPORTED,necrosis,10.1128/iai.66.6.2486-2493.1998,9596706.0,Activity of protegrins against yeast-phase Candida albicans.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+RGGRLCYCRRRFCICV,necrosis,7.0,SUPPORTED,necrosis,10.1128/iai.66.6.2486-2493.1998,9596706.0,Activity of protegrins against yeast-phase Candida albicans.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+RGGRLCYCRRRFCVCVGR,apoptosis,97.0,SUPPORTED,apoptosis;necrosis,10.3389/fnins.2017.00073,28261050.0,Membrane Active Antimicrobial Peptides: Translating Mechanistic Insights to Design.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+RGGRLCYCRRRFCVCVGR,necrosis,97.0,SUPPORTED,apoptosis;necrosis,10.3389/fnins.2017.00073,28261050.0,Membrane Active Antimicrobial Peptides: Translating Mechanistic Insights to Design.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE;TRUNCATED_AUTHOR_LIST,4,False
+RGGRLCYCRRRFCVCVGR,pyroptosis,97.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.3389/fnins.2017.00073,28261050.0,Membrane Active Antimicrobial Peptides: Translating Mechanistic Insights to Design.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;TRUNCATED_AUTHOR_LIST,2,False
+RGLRRLGRKIAHGVKKYGPTVLRIIRIAG,necrosis,17.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.3390/biom10040652,32340301.0,Antimicrobial and Antibiofilm Peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+RKC,pyroptosis,,SKIPPED_TOO_SHORT_OR_NONSTANDARD,,,,,SKIPPED_TOO_SHORT_OR_NONSTANDARD,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,2,False
+RKCRIVVIRVCR,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+RLCRIVVIRVCR,necrosis,26.0,SUPPORTED,necrosis,10.1128/aac.00242-10,20547815.0,"Adaptive resistance to the ""last hope"" antibiotics polymyxin B and colistin in Pseudomonas aeruginosa is mediated by the novel two-component regulatory system ParR-ParS.",SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+RLKRLLRRLLRR,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+RLKRWWKWWK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+RLLRRLLRRLLR,pyroptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1901/jeab.2006.17-06,17191754.0,Effects of D-amphetamine and ethanol on variable and repetitive key-peck sequences in pigeons.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+RLLRRLRRLLRR,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+RNGIVKAGPAIAVLGE,apoptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.4103/rps.rps_75_24,40444161.0,Exploring the potential of anticancer peptides as therapeutic agents for cancer treatment.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+RPKPQQFFGLM,pyroptosis,173.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1007/s00018-016-2293-z,27314883.0,Neuropeptide substance P and the immune response.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE;RECENT_FEW_AUTHORS,2,False
+RQIKIWFQNRRMKWKK,pyroptosis,508.0,ONLY_OTHER_MECHANISM:apoptosis,apoptosis,10.1073/pnas.97.24.13003,11087855.0,"The design, synthesis, and evaluation of molecules that enable or enhance cellular uptake: peptoid molecular transporters.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+RQIKIWFQNRRMKWKKKLEELFAY,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+RRFPWWWPFLRR,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3389/fmed.2025.1548603,40342581.0,Cationic antimicrobial peptides: potential templates for anticancer agents.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,3,False
+RRIRPRPPRLPRPRPRPLPFPRPGPRPIPRPLPFP,necrosis,11.0,SUPPORTED,necrosis,10.3390/molecules23040815,29614844.0,Tryptophan-Rich and Proline-Rich Antimicrobial Peptides.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+RRIRPRPPRLPRPRPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRP,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,2,False
+RRKFAKFQWI,apoptosis,3.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+RRLSYSRRRF,pyroptosis,15.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1208/s12248-008-9055-2,18726697.0,CNS delivery via adsorptive transcytosis.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+RRRLREMNWVDYFA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;RECENT_FEW_AUTHORS,1,False
+RRRLREMNWVDYFA,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,4,True
+RRRPRPPYLPR,apoptosis,5.0,SUPPORTED,apoptosis;necrosis,10.2174/092986709787581860,19275603.0,Proteasome regulators: activators and inhibitors.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+RRRPRPPYLPRPRPPPFFP,pyroptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1073/pnas.93.12.6014,8650211.0,"PR-39, a proline-rich antibacterial peptide that inhibits phagocyte NADPH oxidase activity by binding to Src homology 3 domains of p47 phox.",HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPRFP,necrosis,36.0,SUPPORTED,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,4,False
+RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPRFP,pyroptosis,36.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.bbamem.2007.11.008,18078805.0,Studies on anticancer activities of antimicrobial peptides.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+RRRQRRKKRGGGDTRLNTVWMW,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,HITS_BUT_NO_MECHANISM_EVIDENCE,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+RRRRLVAGVLVLLRRRR,pyroptosis,1.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1038/s41598-025-96465-x,40229415.0,A novel peptide RR-171 derived from human umbilical cord serum induces apoptosis and pyroptosis in pancreatic cancer cells.,SUPPORTED,SUPPORTS_LABEL,NONE;RECENT_FEW_AUTHORS,4,False
+RRRRRRRR,pyroptosis,245.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1073/pnas.97.24.13003,11087855.0,"The design, synthesis, and evaluation of molecules that enable or enhance cellular uptake: peptoid molecular transporters.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+RRRRRRRRFAEKFKEAVKD,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+RRRRRRRRKLAKLAKKLAKLAK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+RRRRRRRRLLLLLLLL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+RRRRRRRRR,pyroptosis,231.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1073/pnas.97.24.13003,11087855.0,"The design, synthesis, and evaluation of molecules that enable or enhance cellular uptake: peptoid molecular transporters.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+RRRRRRRRWKKL,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+RRRRWWWW,apoptosis,4.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+RRWCFRVCYRGFCYRKCR,pyroptosis,11.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.1128/aac.01664-09,20660668.0,Short cationic antimicrobial peptides interact with ATP.,SUPPORTED,NO_MECHANISM_KEYWORD,TRUNCATED_AUTHOR_LIST,1,False
+RRWCFRVCYRGICYRKCR,necrosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3389/fmicb.2021.785085,34975806.0,Marine Invertebrate Peptides: Antimicrobial Peptides.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,2,False
+RRWQWRFKKLG,necrosis,5.0,SUPPORTED,apoptosis;necrosis,10.3390/ijms21124550,32604743.0,Peptides Derived from (RRWQWRMKKLG)<sub>2-</sub>K-<i>Ahx</i> Induce Selective Cellular Death in Breast Cancer Cell Lines through Apoptotic Pathway.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+RRWWRF,pyroptosis,38.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE;RECENT_FEW_AUTHORS,3,False
+RSMRDAMAGLKRHAKRVR,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+RSSAAQLTAARLKALGDELHQRTM,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST,1,False
+RVRARALARALARALA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+RWCVYAYVRIRGVLVRYRRCW,necrosis,4.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1016/j.febslet.2004.10.012,15527787.0,"Purification and primary structure of two isoforms of arenicin, a novel antimicrobial peptide from marine polychaeta Arenicola marina.",HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+RWCVYAYVRVRGVLVRYRRC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+RWCVYAYVRVRGVLVRYRRCW,necrosis,7.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1016/j.febslet.2004.10.012,15527787.0,"Purification and primary structure of two isoforms of arenicin, a novel antimicrobial peptide from marine polychaeta Arenicola marina.",HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,2,False
+RWGKWFKKATHVGKHVGKAALTAYL,apoptosis,8.0,SUPPORTED,apoptosis;necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+RWGKWFKKATHVGKHVGKAALTAYL,necrosis,8.0,SUPPORTED,apoptosis;necrosis,10.3389/fmicb.2013.00294,24101917.0,From antimicrobial to anticancer peptides. A review.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+RWQWRWQWR,apoptosis,25.0,SUPPORTED,apoptosis;necrosis,10.1002/advs.202410893,39530703.0,Antimicrobial Peptides: A Promising Alternative to Conventional Antimicrobials for Combating Polymicrobial Biofilms.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+RWRRKKRWRRKKRWRRKKRWRRKK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+RWRWRWRW,pyroptosis,7.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1128/aac.00530-10,20696877.0,"Cationic amphiphiles, a new generation of antimicrobials inspired by the natural antimicrobial peptide scaffold.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+RWWCRWC,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+SALKLLKKLLKKLLKLLAS,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE;RECENT_FEW_AUTHORS,2,False
+SFSIIHTPILPL,apoptosis,38.0,SUPPORTED,apoptosis;necrosis,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+SGRGKTGGKARAKAKTRSSR,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST,1,False
+SIKIPSS,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+SKWQHQQDSCRKQLQGVNLTPCEKHIMEKIQGRGDDDDDDDDD,apoptosis,17.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.3390/molecules28207165,37894644.0,Peptides as Therapeutic Agents: Challenges and Opportunities in the Green Transition Era.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+SLLSLIRKLIT,necrosis,15.0,SUPPORTED,necrosis,10.3390/toxins8020032,26805885.0,Differential Properties of Venom Peptides and Proteins in Solitary vs. Social Hunting Wasps.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+SLPLPMFGISYT,apoptosis,1.0,SUPPORTED,apoptosis,10.1371/journal.pone.0160980,27513518.0,"Tumor-Specific Peptide, Selected from a Phage Peptide Library, Enhances Antitumor Activity of Lactaptin.",SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH,1,True
+SLPPSLPRFIPW,apoptosis,1.0,SUPPORTED,apoptosis,10.1371/journal.pone.0160980,27513518.0,"Tumor-Specific Peptide, Selected from a Phage Peptide Library, Enhances Antitumor Activity of Lactaptin.",SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH,1,True
+SLPVYAPALTSR,apoptosis,1.0,SUPPORTED,apoptosis,10.1371/journal.pone.0160980,27513518.0,"Tumor-Specific Peptide, Selected from a Phage Peptide Library, Enhances Antitumor Activity of Lactaptin.",SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH,1,True
+SMWSGMWRRKLKKLRRMPALVT,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+STKKLSECLKRIGDELDSNM,apoptosis,5.0,SUPPORTED,apoptosis;necrosis,10.1074/jbc.m112.357293,22544745.0,The MUC1-C oncoprotein binds to the BH3 domain of the pro-apoptotic BAX protein and blocks BAX function.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+SVPWKKK,pyroptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+SWLSKTAKKLENSAKKRISEGIAIAIQGGPR,necrosis,18.0,SUPPORTED,necrosis,10.1073/pnas.97.16.8856,10922046.0,The role of antimicrobial peptides in animal defenses.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,1,False
+SWLSKTAKKLENSAKKRISEGIAIAIQGGPR,pyroptosis,18.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1073/pnas.97.16.8856,10922046.0,The role of antimicrobial peptides in animal defenses.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+SYGSLPAAVFPL,apoptosis,1.0,SUPPORTED,apoptosis,10.1371/journal.pone.0160980,27513518.0,"Tumor-Specific Peptide, Selected from a Phage Peptide Library, Enhances Antitumor Activity of Lactaptin.",SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH,1,True
+TDSYPEP,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+THPPTTTTTTTTTTTTTAAPATTT,apoptosis,3.0,SUPPORTED,apoptosis,10.3390/ijms241612931,37629112.0,Peptide-Based Agents for Cancer Treatment: Current Applications and Future Directions.,SUPPORTED,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+TKCFQWQRNMRKVRGPPVSCIKRDS,necrosis,2.0,SUPPORTED,necrosis,10.3390/molecules23040815,29614844.0,Tryptophan-Rich and Proline-Rich Antimicrobial Peptides.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+TKEDKTF,apoptosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1186/s13065-024-01143-0,38388460.0,Computational design of anti-cancer peptides tailored to target specific tumor markers.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,1,True
+TRICCGCYWNGSKDVCSQSCC,apoptosis,1.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/molecules25122850,32575664.0,Antimicrobial Peptides as Anticancer Agents: Functional Properties and Biological Activities.,HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NONE,2,False
+TRSSRAGLQFPVGRVHRLLRK,apoptosis,65.0,SUPPORTED,apoptosis;necrosis,10.1073/pnas.150518097,10890923.0,"Structure-activity analysis of buforin II, a histone H2A-derived antimicrobial peptide: the proline hinge is responsible for the cell-penetrating ability of buforin II.",SUPPORTED,MENTIONS_OTHER_MECHANISM_ONLY,NONE,3,False
+TRSSRAGLQFPVGRVHRLLRK,necrosis,65.0,SUPPORTED,apoptosis;necrosis,10.1073/pnas.150518097,10890923.0,"Structure-activity analysis of buforin II, a histone H2A-derived antimicrobial peptide: the proline hinge is responsible for the cell-penetrating ability of buforin II.",SUPPORTED,SUPPORTS_LABEL,NONE,3,False
+TRSSRAGLQFPVGRVHRLLRK,pyroptosis,65.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1073/pnas.150518097,10890923.0,"Structure-activity analysis of buforin II, a histone H2A-derived antimicrobial peptide: the proline hinge is responsible for the cell-penetrating ability of buforin II.",ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,3,False
+TSFAEYWNLLSP,apoptosis,43.0,SUPPORTED,apoptosis;necrosis,10.1073/pnas.0900947106,19255450.0,Structural basis for high-affinity peptide inhibition of p53 interactions with MDM2 and MDMX.,SUPPORTED,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+TSLISCSMCTPGCKTGALMGCNMKTATCHCSIHVSK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+TSPLNIHNGQKL,apoptosis,17.0,SUPPORTED,apoptosis;necrosis,10.2174/138161210790963788,20030617.0,Peptidic tumor targeting agents: the road from phage display peptide selections to clinical applications.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+VDKPDYRPRPRPPNM,necrosis,7.0,SUPPORTED,necrosis,10.3390/molecules23040815,29614844.0,Tryptophan-Rich and Proline-Rich Antimicrobial Peptides.,SUPPORTED,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+VGACRRWCFLRRC,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+VGALAVVVWLWLWLW,apoptosis,16.0,SUPPORTED,apoptosis;necrosis,10.3389/fnins.2017.00073,28261050.0,Membrane Active Antimicrobial Peptides: Translating Mechanistic Insights to Design.,SUPPORTED,NO_MECHANISM_KEYWORD,NONE,2,False
+VKLFPVKLFP,apoptosis,4.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.1016/j.cbpa.2017.03.014,28399505.0,Host defense antimicrobial peptides as antibiotics: design and application strategies.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,2,False
+VNWKKILGKIIKVVK,pyroptosis,16.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3390/ph6081055,24276381.0,Characterization of Antimicrobial Peptides toward the Development of Novel Antibiotics.,ONLY_OTHER_MECHANISM,MENTIONS_OTHER_MECHANISM_ONLY,NONE,1,False
+VPAAAVAVAAQVAVVV,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,2,False
+VQWRIRVAVIRK,pyroptosis,50.0,SUPPORTED,necrosis;pyroptosis,10.1038/s41392-022-01007-w,35597779.0,mRNA-based therapeutics: powerful and versatile tools to combat diseases.,SUPPORTED,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+VRKFPWWWPFLKK,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+VRRFPWWWPFLRR,necrosis,51.0,SUPPORTED,apoptosis;necrosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,SUPPORTED,SUPPORTS_LABEL,NONE,1,False
+VRRFPWWWPFLRR,pyroptosis,51.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1039/d0cs00729c,34042120.0,The multifaceted nature of antimicrobial peptides: current synthetic chemistry approaches and future directions.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+VTALWGKFNMTEAEQLINRI,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+VVCACRRALCLPRERRAGFCRIRGRIHPLCCRR,necrosis,7.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1128/aac.47.2.494-500.2003,12543649.0,"NP-1, a rabbit alpha-defensin, prevents the entry and intercellular spread of herpes simplex virus type 2.",HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+WEWTWY,pyroptosis,1.0,SUPPORTED,apoptosis;pyroptosis,10.1021/acs.jmedchem.5c01098,40720172.0,Self-Assembling Peptides Alter Cell Death Pathway for Pyroptosis-Enhanced Immune Activation.,SUPPORTED,SUPPORTS_LABEL,NONE;NOT_FOUND_IN_LITERATURE_SEARCH;RECENT_FEW_AUTHORS,4,True
+WKSESLCTPGCVTGALQTCFLQTLTCNCKISK,necrosis,2.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.1021/acssynbio.0c00194,32551553.0,Mini<i>Bacillus</i> PG10 as a Convenient and Effective Production Host for Lantibiotics.,HITS_BUT_NO_MECHANISM_EVIDENCE,SUPPORTS_LABEL,NONE,1,False
+WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAK,apoptosis,4.0,HITS_BUT_NO_MECHANISM_EVIDENCE,,10.3390/toxins10110461,30413046.0,"Insect Antimicrobial Peptides, a Mini Review.",HITS_BUT_NO_MECHANISM_EVIDENCE,NO_MECHANISM_KEYWORD,NONE,1,False
+WNPFKELERAGQRVRDAISASAPAVATVGQATAIARG,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,RECENT_FEW_AUTHORS,1,False
+WRWYCR,apoptosis,41.0,SUPPORTED,apoptosis;necrosis,10.1002/chem.201705398,29336493.0,"N-Terminal Cu-Binding Motifs (Xxx-Zzz-His, Xxx-His) and Their Derivatives: Chemistry, Biology and Medicinal Applications.",SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;RECENT_FEW_AUTHORS,1,False
+WRWYRGGRYWRW,apoptosis,6.0,SUPPORTED,apoptosis,10.1093/nar/gkac1043,36382400.0,Interactions of small molecules with DNA junctions.,SUPPORTED,SUPPORTS_LABEL,INCOMPLETE_AUTHOR_LIST;RECENT_FEW_AUTHORS,1,False
+WWFLFSLIPHA,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,NO_MECHANISM_KEYWORD,NONE,1,False
+YGRKKRRQRRR,pyroptosis,1047.0,ONLY_OTHER_MECHANISM:apoptosis;necrosis,apoptosis;necrosis,10.1016/j.cub.2018.05.094,30057310.0,AMPK-Mediated BECN1 Phosphorylation Promotes Ferroptosis by Directly Blocking System X<sub>c</sub><sup>-</sup> Activity.,ONLY_OTHER_MECHANISM,NO_MECHANISM_KEYWORD,NONE,1,False
+YGRKKRRQRRRAVPIAQK,apoptosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,RECENT_FEW_AUTHORS,1,False
+YGRKKRRQRRRWMWVTNLRTDD,necrosis,0.0,NO_LITERATURE_HIT,,,,,NO_LITERATURE_HIT,SUPPORTS_LABEL,NONE,1,False
+YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG,apoptosis,16.0,ONLY_OTHER_MECHANISM:necrosis,necrosis,10.3390/molecules23020295,29385037.0,Cell Penetrating Peptides as Molecular Carriers for Anti-Cancer Agents.,ONLY_OTHER_MECHANISM,SUPPORTS_LABEL,NONE,2,False
+YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG,necrosis,16.0,SUPPORTED,necrosis,10.3390/molecules23020295,29385037.0,Cell Penetrating Peptides as Molecular Carriers for Anti-Cancer Agents.,SUPPORTED,SUPPORTS_LABEL,NONE,2,False
+YTYDPWLIFPAN,apoptosis,3.0,SUPPORTED,apoptosis,10.3390/ijms22010314,33396774.0,Tumor-Targeting Peptides Search Strategy for the Delivery of Therapeutic and Diagnostic Molecules to Tumor Cells.,SUPPORTED,NO_MECHANISM_KEYWORD,INCOMPLETE_AUTHOR_LIST;NOT_FOUND_IN_LITERATURE_SEARCH,1,True
+YVPGP,apoptosis,9.0,SUPPORTED,apoptosis;necrosis;pyroptosis,10.3892/ijo.2020.5099,32705178.0,"Anticancer peptide: Physicochemical property, functional aspect and trend in clinical application (Review).",SUPPORTED,SUPPORTS_LABEL,NONE,2,False

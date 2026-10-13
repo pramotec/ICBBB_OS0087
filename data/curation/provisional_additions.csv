@@ -1,0 +1,9 @@
+Sequence,length,mode,identified_as,evidence,source,status
+WKIFKKIEKMGRNIRDGIVKAGPAIEVLGSAKAIGK,36,apoptosis,Cecropin XJ,"open-ended mining, tier 1 table row; BGC823 gastric cancer, ROS up, membrane potential down",PMID 38069041,provisional - confirm the assay before use
+ANDISFNFVRFNETNLILGG,20,apoptosis,chickpea-derived peptide,"open-ended mining, tier 1 table row; MCF-7, IC50 0.2 uM, Fas / caspase-8 / truncated BID / p53",PMID 39898323,provisional - confirm the assay before use
+FSRSLHSLLGC,11,apoptosis,"NuBCP-9, Bcl-2 inhibitor peptide","open-ended mining, tier 1 table row; Ac-FSRSLHSLLGC-NH2, breast cancer in vivo",PMID 35638450,provisional - confirm the assay before use
+GIKCRFCCGCCTPGICGVCCRF,22,necrosis,tilapia piscidin TP3,"found independently by open-ended mining AND targeted lookup; LDH release, HeLa/HepG2/HT1080",PMID 35624884,provisional - confirm the assay before use
+ALWKDMLKGIGKLAGKAALGAVKTLV,26,necrosis,Dermaseptin-PP,"open-ended mining, tier 1 table row; LDH release, IC50 1.6-4.2 uM across four lines",PMID 36981206,provisional - confirm the assay before use
+FIHHIIGGLFSAGKAIHRLIRRRRR,25,necrosis,tilapia piscidin TP4,"targeted lookup, unit tier 3; TNBC xenograft treatment, necrosis named",PMID 34874400,provisional - confirm the assay before use
+HTMYYHHYQHHL,12,(rejected),,"K237, a VEGFR-2-binding targeting ligand on a paclitaxel nanoparticle - the cytotoxic agent is paclitaxel, not the peptide",,rejected by hand audit
+KLLLKLLKKLLKLLKKK,17,(rejected),,"evidence is a secondary citation, and the sequence quoted in that sentence has 18 residues against the 17 queried",,rejected by hand audit

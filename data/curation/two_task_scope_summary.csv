@@ -1,0 +1,3 @@
+task,n_total,n_pos,n_neg,neg_that_are_Necrosis_pos,neg_that_are_Pyroptosis_pos,neg_pyroptosis_only,neg_unexplained,neg_that_are_Apoptosis_pos
+Apoptosis,351,203,148,81.0,88,67,0,
+Necrosis,356,203,153,,76,67,0,86.0

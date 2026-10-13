@@ -1,0 +1,79 @@
+seq_clean,peptide_name,representative_doi,len,status,in_unidl4biopep_ACP,max_identity,nearest,nearest_pool,concern,recommended_action
+RRWQWR,LfcinB(20-25)4 (tetrameric bovine lactoferricin),10.1039/C9RA04145A,6,new to the collection,False,1.0,FKARRWQWRMKKLGA,nonacp_main,"the tested agent is the tetramer LfcinB(20-25)4, not this hexamer",DECIDE - sequence is not the tested agent
+RGDRWQWRWQWR,Peptide 14 (RGD-Ahx-RWQWRWQWR),10.37349/eds.2024.00052,12,new to the collection,False,1.0,RWQWRWQWR,deathmode,contains a non-natural Ahx linker between RGD and RWQWRWQWR,DECIDE - sequence is not the tested agent
+GIGEVLHELATLLPELWIKAAQQL,M159 (L-type parent; D-M159 sequence not printed separately),10.3390/ijms26073172,24,new to the collection,False,0.75,LLEL,nonacp_main,the paper's agent is the D-enantiomer D-M159; the L-sequence is recorded instead,DECIDE - sequence is not the tested agent
+FKKLKKLFSKLWNWKRKKRRQRRR,HPRP-A1-TAT,10.1371/journal.pone.0138911,24,new to the collection,False,1.0,FKKLKKLFSKLWNWK,deathmode,"sequence includes the TAT carrier RKKRRQRRR; the tested agent is the conjugate, and the parent HPRP-A1 is a separate row",DECIDE - sequence is not the tested agent
+YGRKKRRQRRRKDHRISTFKNWPFLEGCACTPERM,Sur-X,10.1186/s13046-020-01581-3,35,new to the collection,False,1.0,GRKKRRQRRR,acp_pos_alt,begins with the TAT carrier YGRKKRRQRRR; the tested agent is the conjugate,DECIDE - sequence is not the tested agent
+DWPH,RPOI-1 (Ruditapes philippinarum oligopeptide),10.3892/mmr.2014.2788,4,new to the collection,False,,,,,DECIDE - shorter than any reliable descriptor support
+DYVP,SCH-P10,10.3892/mmr.2017.7418,4,new to the collection,False,,,,,DECIDE - shorter than any reliable descriptor support
+LPGP,SCH-P9,10.3892/mmr.2017.7418,4,new to the collection,False,,,,,DECIDE - shorter than any reliable descriptor support
+RRWQWRMKKLG,26[M](\(^{26}[F]\) — LfcinB (20–30)₂ analog),10.3390/ijms21124550,11,new to the collection,False,1.0,FKARRWQWRMKKLGA,nonacp_main,,FLAG - >=0.95 identical to a peptide the external benchmark calls non-ACP
+GIMDTVKNAAKNLAGQLLDKLKCKITAC,Ranatuerin-2PLx,10.1042/BSR20180710,28,new to the collection,False,0.964,GIMDTVKNAAKDLAGQLLDKLKCKITAC,nonacp_main,,FLAG - >=0.95 identical to a peptide the external benchmark calls non-ACP
+RRWQWRFKKLG,Peptide 3(R-Orn-WQWRFKKLG)₂-K-Ahx),10.37349/eds.2025.100891,11,CURRENTLY APOPTOSIS-NEGATIVE,False,,,,"the tested agent is a dimer containing ornithine, (R-Orn-WQWRFKKLG)2-K-Ahx; not a linear L-peptide",RESOLVE CONFLICT - currently labelled 0 for apoptosis
+SALKLLKKLLKKLLKLLAS,SA-K6L9-AS,10.3390/app16073288,19,CURRENTLY APOPTOSIS-NEGATIVE,False,,,,,RESOLVE CONFLICT - currently labelled 0 for apoptosis
+ILYMP,"ILYMP (Cyclina sinensis, hard clam)",10.3892/mmr.2018.9019,5,new to the collection,False,0.8,GGLRSLGRKILRAWKKYGPIIVPIIRI,deathmode+acp_pos_alt,,add - joins an existing identity cluster
+EGFHL,LJP-1 (Laminaria japonica peptide),10.3390/md20110704,5,new to the collection,False,0.8,EGRLGTQWAVGHLM,deathmode,,add - joins an existing identity cluster
+GLLLLL,Compound 8,10.3390/md20060379,6,new to the collection,False,0.833,GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC,nonacp_main,,add - joins an existing identity cluster
+KLKKNL,Chia seed peptide KLKKNL,10.1016/j.foodchem.2024.140470,6,new to the collection,False,0.833,ALPKKLKYLNLFNDGFNYMGVV,acp_pos_alt,,add - joins an existing identity cluster
+YALPAH,YALPAH (Setipinna taty / anchovy peptide),10.3390/md19020115,6,new to the collection,False,0.833,EFKRCWKGQGACQTYCTRQETYMHLCPDASLCCLSYALKPPPVPKHEYE,nonacp_main,,add - joins an existing identity cluster
+RLRWVRIWRR,RL10 (previously RiLK3),10.22038/ijbms.2026.92237.19905,10,new to the collection,False,0.875,RIWVIWRR,nonacp_main,,add - joins an existing identity cluster
+NGVQPKYRWWRWWRRWW,RT2,10.1007/s10930-016-9662-1(https://www.medchemexpress.com/rt2.html),17,new to the collection,False,0.875,RWRWRWRW,deathmode,,add - joins an existing identity cluster
+RALRKALKAWRKLAKKLQ,RQ18,10.3390/ph19101521,18,new to the collection,False,0.8,KAKLF,acp_pos_alt,,add - joins an existing identity cluster
+FFPLIAGLAARFLPKIFCSITKRC,Brevinin-1RL1,10.3390/molecules26072059,24,new to the collection,False,0.833,FLPLIAGLAANFLPKIFCAITKKC,acp_pos_alt,,add - joins an existing identity cluster
+THPPTTTTTTTTTTTYTAAPATTT,ATMP5 (synthetic analogue of ATMP1 from Anabas testudineus skin mucus),10.7717/peerj.15651,24,new to the collection,False,0.958,THPPTTTTTTTTTTTTTAAPATTT,deathmode,,add - joins an existing identity cluster
+IWLTALKFLGKNLGKHLAKQQLSKL,LVTX-8,10.3390/toxins12060367,25,new to the collection,False,0.96,IWLTALKFLGKNLGKHLAKQQLAKLVTG,deathmode,,add - joins an existing identity cluster
+KKLALALAKKWLALAKKLALALAKK,D-LAK-120A,10.1016/j.biochi.2022.06.011,25,new to the collection,False,0.923,LAKLAKKLAKLAK,deathmode,,add - joins an existing identity cluster
+ALWKDMLKGIGKLAGKAALGAVKTLV,Dermaseptin-PP,10.3389/fchem.2020.00476,26,new to the collection,False,0.923,ALWKNMLKGIGKLAGKAALGAVKKLVGAES,acp_pos_alt,,add - joins an existing identity cluster
+GRWKIFKKIEKVGQNIRDGIVKAGPAVAVVGQAATI,myristoyl-CM4,10.2147/DDDT.S207224,36,new to the collection,False,0.889,RWKFFKKIEKVGQNIRDGIIKAGPAVAVVGQAASIT,nonacp_main,,add - joins an existing identity cluster
+WKIFKKIEKMGRNIRDGIVKAGPAIEVLGSAKAIGK,CecropinXJ,10.3892/ijo.2015.2933,36,new to the collection,False,1.0,RWKIFKKIEKMGRNIRDGIVKAGPAIEVLGSAKAIGK,acp_pos_alt,,add - joins an existing identity cluster
+QNNICKTTSKHFKGLCFADSKCRKVCIQEDKFEDGHCSKLQRKCLCTKNC,gamma-thionin (Capsicum chinense defensin),10.3390/molecules28093661,50,new to the collection,False,1.0,RKC,deathmode,,add - joins an existing identity cluster
+FIMGPY,FIMGPY (skate cartilage hexapeptide),10.3390/md14080153,6,new to the collection,False,0.667,SLQYVMSAGPYTWYKDTRTGKTICKQTIDTASYTFGVMAEGWGKTFH,nonacp_main,,add - new identity cluster
+SLSLSVAR,MIPP,10.1155/2021/5563367,8,new to the collection,False,0.75,GLLSSLSSVA,nonacp_main,,add - new identity cluster
+FFFLSRIF,Temporin-SHf,10.1007/s00726-023-03373-3,8,new to the collection,False,0.625,FFGSVLKVAAKVLPAALCQIFKKC,acp_pos_alt,,add - new identity cluster
+DGIFVLNY,DY-8,10.1371/journal.pone.0304701,8,new to the collection,False,0.75,GSLCGDTCFVLGCNDSSCSCNYPICVKD,acp_pos_alt,,add - new identity cluster
+RAQNHYCK,Scolopentide (extracted),10.3748/wjg.v29.i12.1875,8,new to the collection,False,0.625,QYGRRCCNWGPGRRYCKRWC,nonacp_main,,add - new identity cluster
+VTFVLIAA,C-ori,10.3390/molecules26195767,8,new to the collection,False,0.625,GLFSVVTGVLKAVGKNVAGSLLEQLKCKISGGC,nonacp_main,,add - new identity cluster
+PSRKVMLWS,PS9,10.1021/acsomega.3c00336,9,new to the collection,False,0.5,KRRW,deathmode,,add - new identity cluster
+LLCIALRKK,"CopA3 (coprisin analogue, Copris tripartitus)",10.5483/BMBRep.2012.45.2.85,9,new to the collection,False,0.667,FKKLKKTFSKLKLALYGRKKRRQRRR,deathmode,,add - new identity cluster
+GATIRAVNSR,PepGAT,10.1021/acsomega.4c08194,10,new to the collection,False,0.7,RRSRKNGIGYAIGYAFGAVERAVLGGSRDYNK,nonacp_main,,add - new identity cluster
+KAANRIKYFQ,PepKAA,10.1021/acsomega.4c08194,10,new to the collection,False,0.6,KAYARIGNSYFK,acp_pos_alt,,add - new identity cluster
+IEPGTVGMMF,PAP (Perinereis aibuhitensis peptide),10.3390/md17020122,10,new to the collection,False,0.5,DERCTIIIHPGSPCDPSDCVQYCYAEYNGVGKCIASKPGRSANCMCTYNC,nonacp_main,,add - new identity cluster
+LKEENRRRRD,SHP (Sepia ink / sepia hydrolysed peptide),10.3892/mmr.2017.7068,10,new to the collection,False,0.6,KTCENLANTYRGPCFTTGSCDDHCKNKEHLRSGRCRDDFRCWCTRNC,nonacp_main,,add - new identity cluster
+QVNGLGERSQQM,CD55sp,10.2147/DDDT.S182337,12,new to the collection,False,0.5,LE,nonacp_main,,add - new identity cluster
+VISNASCTTNCLAK,W-0803 (Anoplophora glabripennis),10.1186/s13765-024-00908-4,14,new to the collection,False,0.5,DFASCHTNGGICLPNRCPGHMIQIGICFRPRVKCCRSW,acp_pos_alt,,add - new identity cluster
+RIRDAIAHGYIVDKV,Peptide B11,10.3390/molecules23123202,15,new to the collection,False,0.533,WNPFKELERAGQRVRDAISASAPAVATVGQATAIARG,deathmode,,add - new identity cluster
+RSSQTITHGNGNTYLY,Rb44L1,10.3389/fonc.2019.00025,16,new to the collection,False,0.5,RYLGYL,acp_pos_alt,,add - new identity cluster
+KSSQSVFYSSNNKNYLA,C36L1,10.1038/srep14310,17,new to the collection,False,0.667,YSL,acp_pos_alt,,add - new identity cluster
+CRRLCYKQRCVTYCRGR,Gomesin,10.1038/s41598-018-29826-4,17,"in the collection, absent from the apoptosis file",False,,,,,add - new identity cluster
+VSKLRKGEKYMFFCTFPGH,CT-p19LC (azurin-derived),10.3390/biomedicines9091194,19,new to the collection,False,0.667,RKC,deathmode,,add - new identity cluster
+GFIFHIIKGLFHAGKMIHGLV,"Epinecidin-1 (Epi-1, residues 22-42, Epinephelus coioides / grouper)",10.3389/fmicb.2019.02631,21,new to the collection,True,,,,,add - new identity cluster
+TGIATSGLATFTLHTGSLAPAT,AtMP2**,10.1038/s41598-021-02007-6,22,new to the collection,False,0.714,LGLAFTK,deathmode,,add - new identity cluster
+IWSFLIKAATKLLPSLFGGGKKDS,Smp24,10.3390/toxins14100717,24,new to the collection,False,0.667,IWSFLIKAATKLIPSLFRALWRED,deathmode,,add - new identity cluster
+FIHHIIGGLFSAGKAIHRLIRRRRR,MSP-4 / TP-4 (as printed in Methods),10.3390/md16010008,25,new to the collection,True,,,,,add - new identity cluster
+FLKSLWRGVKAIFNGARQGYKEHKN,AMP-WF3 (pleurocidin-like peptide WF3 isoform X2),10.22074/cellj.2022.557529.1062,25,new to the collection,False,0.667,YSL,acp_pos_alt,,add - new identity cluster
+GLLSVLGSVAKHVLPHVVPVIAEHL,Caerin 1.1,10.3389/fcell.2020.00676,25,new to the collection,True,,,,,add - new identity cluster
+GLFGVLGSIAKHVLPHVVPVIAEKL,Caerin 1.9,10.3389/fcell.2020.00676,25,new to the collection,True,,,,,add - new identity cluster
+KLKSKLMVVANKIGLLKSLARKFVKSH,NKL-MUT,10.3390/antiox15050615,27,new to the collection,False,0.625,KWKLFKKIPLHLAKKF,acp_pos_alt,,add - new identity cluster
+MWKWFHNVLSWWWLLADKRPARDYNRK,Pep27anal2,10.1186/1475-2867-5-21,27,new to the collection,True,,,,,add - new identity cluster
+THRPPMWSPVWPGGGKLLLKLLKKLLKLLKKK,TfR-lytic hybrid peptide,10.1186/1471-2407-11-359,32,new to the collection,True,,,,,add - new identity cluster
+TKEQKEQIAKATGLTTKQVRNWYVQLNASIKVCMCSC,modified 37-mer,10.1186/s12885-023-11045-4,37,new to the collection,False,0.714,LTVSPWY,deathmode,,add - new identity cluster
+GVWDWIKKTAGKIWNSEPVKALKSQALNAAKNFVAEKIGATPS,Smp43 (Scorpio maurus palmatus),10.1080/2314808X.2025.2555776,43,new to the collection,False,0.714,GFWGKLWEGVKNAI,nonacp_main,,add - new identity cluster
+ATCETPSKHFNGLCIRSSNCASVCHGEHFTDGRCQGVRRRCMCLKPC,"PaDef (defensin, Persea americana var. drymifolia)",10.3389/fmolb.2022.801816,47,new to the collection,False,0.714,SCNCVCGVCCSCSP,nonacp_main,,add - new identity cluster
+YVPGP,"AAP-H (Anthopleura anjunae, sea anemone)",10.3390/md16040125,5,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+RWQWRWQWR,Peptide 14,10.37349/eds.2024.00052,9,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+LLKLFFPFLKTG,PG2 (pomegranate-derived peptide),10.1038/s41598-024-78082-2,12,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+INLKALAALAKKIL,Mastoparan,10.1016/j.peptides.2014.09.024,14,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+RRRLREMNWVDYFA,"P3 (Borealin 65-75 L71V variant, Arg3-tagged)",10.1038/s41598-025-24772-4,14,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+FKRIVQRIKDFLRNLV,FK-16 (LL-37 fragment),10.1371/journal.pone.0063641,16,already apoptosis-positive,True,,,,,no action - already a positive (positive control)
+NGVQPKYKWWKWWKKWW,KT2,10.1007/s10930-016-9662-1,17,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+QCRRLCYKQRCVTYCRGR,Gomesin(AgGom: ZCRRLCYKQRCVTYCRGR-NH₂)**,10.1038/s41598-018-29826-4,18,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+THPPTTTTTTTTTTTTTAAPATTT,AtMP1,10.1038/s41598-021-02007-6,24,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+FKCRRWQWRMKKLGAPSITCVRRAF,Lactoferricin B (17-41),10.1006/bbrc.1997.7199,25,already apoptosis-positive,True,,,,,no action - already a positive (positive control)
+GIGAVLKVLTTGLPALISWIKRKRQQ,Melittin,https://www.uniprot.org/uniprotkb/P01501,26,already apoptosis-positive,True,,,,,no action - already a positive (positive control)
+GRFKRFRKKFKKLFKKLSPVIPLLHL,BMAP-27,10.1007/s12672-025-03855-8,26,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+MRKEFHNVLSSGQLLADKRPARDYNRK,Pep27,10.1186/1475-2867-5-21,27,already apoptosis-positive,True,,,,,no action - already a positive (positive control)
+CCKKPWLRCWRTCLPSRWQRERFGRKC,MP28,10.3390/md23120481,27,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+GGLRSLGRKILRAWKKYGPIIVPIIRIG,BMAP-28,10.3892/ol.2015.3612,28,already apoptosis-positive,True,,,,,no action - already a positive (positive control)
+GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE,"Pardaxin (P1, Pardachirus marmoratus, flatfish)",10.3390/md9101995,33,already apoptosis-positive,True,,,,,no action - already a positive (positive control)
+SKWQHQQDSCRKQLQGVNLTPCEKHIMEKIQGRGDDDDDDDDD,Lunasin (soy),10.3390/ijms23179548,43,already apoptosis-positive,False,,,,,no action - already a positive (positive control)
+FKKLKKLFSKLWNWK,HPRP-A1,10.1371/journal.pone.0138911,51,already apoptosis-positive,False,,,,,no action - already a positive (positive control)

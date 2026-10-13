@@ -1,0 +1,10 @@
+Sequence,len,concern,Apoptosis,Necrosis,Pyroptosis
+RKC,3,3 residues; below any plausible bioactive-peptide length,0.0,0.0,1
+FLTD,4,"GSDMD caspase-1 cleavage site (D275); Ac-FLTD-CMK is an inhibitor of GSDMD cleavage, not an inducer",0.0,0.0,1
+DMPD,4,caspase cleavage-site tetrapeptide motif,0.0,0.0,1
+DMLD,4,caspase cleavage-site tetrapeptide motif,0.0,0.0,1
+LLSD,4,caspase cleavage-site tetrapeptide motif,0.0,0.0,1
+CRAY,4,"4-residue motif, not a characterised anticancer peptide",0.0,0.0,1
+KRRW,4,4 residues; not a characterised anticancer peptide,,,1
+RPKPQQFFGLM,11,"substance P, a neuropeptide",0.0,0.0,1
+RQIKIWFQNRRMKWKK,16,"penetratin, a cell-penetrating carrier rather than a cytotoxic ACP",0.0,0.0,1
