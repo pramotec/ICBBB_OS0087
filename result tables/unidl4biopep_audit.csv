@@ -1,0 +1,3 @@
+Set,n_rows,n_pos,n_neg,pos_len_median,neg_len_median,our_pos_labelled_nonACP,our_neg_in_their_pos,our_pos_in_their_pos,usable_as_tier2,usable_as_tier3
+main,1722,861,861,18.0,26.0,13,25,58,803,848
+alt,1940,970,970,19.0,28.0,0,33,75,895,970

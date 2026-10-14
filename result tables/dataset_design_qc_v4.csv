@@ -1,0 +1,7 @@
+task,tier,pos_v3,pos_v4,neg_unmatched_v3,neg_unmatched_v4,clusters_unmatched_v3,clusters_unmatched_v4,matched_pairs_v3,matched_pairs_v4,matching_retention_v4,clusters_matched_v3,clusters_matched_v4,prevalence_v3,prevalence_v4,p_length_unmatched,p_length_matched
+Apoptosis,tier1,261,267,140,136,289,291,140,136,0.509,203,197,0.6509,0.6625,0.1206,0.9729
+Apoptosis,tier2,261,267,140,140,304,308,261,267,1.0,370,378,0.6509,0.656,0.0112,0.991
+Apoptosis,tier3,261,267,140,140,321,325,261,267,1.0,390,398,0.6509,0.656,0.0,0.8184
+Necrosis,tier1,203,214,145,137,246,249,130,124,0.579,192,189,0.5833,0.6097,0.0,0.3019
+Necrosis,tier2,203,214,145,145,251,257,201,212,0.991,284,290,0.5833,0.5961,0.0257,0.9959
+Necrosis,tier3,203,214,145,145,272,280,201,212,0.991,299,310,0.5833,0.5961,0.0095,1.0

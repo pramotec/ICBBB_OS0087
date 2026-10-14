@@ -1,0 +1,9 @@
+mode,query_name,hitCount,pages,papers,strings,kept,distinct,seq_per_100_papers,tier_le3,acp_corroborated,new,secs
+apoptosis,A_current,131261,2,199,458,25,20,10.1,2,1,19,95
+apoptosis,B_peptide_class,16705,2,200,733,391,295,147.5,5,34,247,88
+apoptosis,C_specific_readout,6325,2,200,818,445,345,172.5,7,32,302,34
+apoptosis,D_seq_required,16489,2,200,763,433,321,160.5,5,32,272,37
+necrosis,A_current,79749,2,200,314,73,61,30.5,2,13,46,83
+necrosis,B_peptide_class,12997,2,200,751,398,287,143.5,2,31,238,41
+necrosis,C_specific_readout,4893,2,200,723,328,225,112.5,2,21,194,32
+necrosis,D_seq_required,10638,2,200,812,534,408,204.0,2,36,362,38
